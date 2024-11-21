@@ -72,7 +72,7 @@ TBA
 
 - **Hengchang Hu**, National University of Singapore
 
-- **Fuhai Chen**, University of Glasgow
+- **Fuhai Chen**, Fuzhou University
 
 -**Mingyue Cheng**, University of Science and Technology of China
 
