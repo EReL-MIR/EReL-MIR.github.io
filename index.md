@@ -47,14 +47,14 @@ TBA
   <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
     <a href="https://gair-lab.github.io/members/2023junchen-fu.html" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu" style="border-radius: 50%; width: 200px; height: 200px;">
-      <p>Junchen Fu<br>University of Glasgow</p>
+      <p>**Junchen Fu**<br>University of Glasgow</p>
     </a>
   </div>
   
   <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
     <a href="https://xurige1995.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/Xuri-Ge.jpg" alt="Xuri Ge" style="border-radius: 50%; width: 200px; height: 200px;">
-      <p>Xuri Ge<br>Shandong University</p>
+      <p>**Xuri Ge**<br>Shandong University</p>
     </a>
   </div>
   
