@@ -1,11 +1,11 @@
 # Site settings
-title: 2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
-SEOTitle:  2nd International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
-header-img: img/background1.jpg
+title: The Web Conference 2025
+SEOTitle:  The Web Conference 2025
+header-img: img/background_www.jpg
 email: 
 description: ""
 keyword: ""
-url: "https://r3ag-sigir-ap.github.io/"              # your host, for absolute URL
+url: "https://erel-mir.github.io/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
