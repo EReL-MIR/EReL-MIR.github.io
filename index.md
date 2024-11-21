@@ -40,6 +40,56 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 TBA
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start;">
+
+  <!-- First Row (5 People) -->
+  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Junchen Fu" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.gla.ac.uk/" target="_blank" style="text-decoration: none; color: inherit;">Junchen Fu</a><br>University of Glasgow</p>
+  </div>
+  
+  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Xuri Ge" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.sdu.edu.cn/" target="_blank" style="text-decoration: none; color: inherit;">Xuri Ge</a><br>Shandong University</p>
+  </div>
+  
+  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Xin Xin" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.sdu.edu.cn/" target="_blank" style="text-decoration: none; color: inherit;">Xin Xin</a><br>Shandong University</p>
+  </div>
+  
+  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Haitao Yu" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.tsukuba.ac.jp/" target="_blank" style="text-decoration: none; color: inherit;">Haitao Yu</a><br>University of Tsukuba</p>
+  </div>
+  
+  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Yue Feng" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.birmingham.ac.uk/" target="_blank" style="text-decoration: none; color: inherit;">Yue Feng</a><br>University of Birmingham</p>
+  </div>
+
+  <!-- Second Row (3 People) -->
+  <div style="flex: 1 1 calc(33% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Alexandros Karatzoglou" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.amazon.com/" target="_blank" style="text-decoration: none; color: inherit;">Alexandros Karatzoglou</a><br>Amazon</p>
+  </div>
+  
+  <div style="flex: 1 1 calc(33% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Ioannis Arapakis" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.telefonica.com/" target="_blank" style="text-decoration: none; color: inherit;">Ioannis Arapakis</a><br>Telefónica Scientific Research</p>
+  </div>
+  
+  <div style="flex: 1 1 calc(33% - 20px); text-align: center;">
+    <img src="https://via.placeholder.com/100" alt="Joemon M. Jose" style="border-radius: 50%; width: 100px; height: 100px;">
+    <p><a href="https://www.gla.ac.uk/" target="_blank" style="text-decoration: none; color: inherit;">Joemon M. Jose</a><br>University of Glasgow</p>
+  </div>
+
+</div>
+
+
+
+<!-- ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
 - **Junchen Fu**, University of Glasgow, j.fu.3@research.gla.ac.uk
 
 - **Xuri Ge**, Shandong University, xurigexmu@gmail.com
@@ -54,7 +104,7 @@ TBA
 
 - **Ioannis Arapakis**, Telefónica Scientific Research, arapakis.ioannis@gmail.com
 
-- **Joemon M. Jose**, University of Glasgow, joemon.jose@glasgow.ac.uk
+- **Joemon M. Jose**, University of Glasgow, joemon.jose@glasgow.ac.uk -->
 
 
 
@@ -77,6 +127,7 @@ TBA
 
 - **Mingyue Cheng**, University of Science and Technology of China
 
-
-
+## <a name='Contact' style="color: inherit; text-decoration: none;"> Program Committee</a>
+If you have any questions about the ERel@Workshop, you can contact the following email:
+j.fu.3@research.gla.ac.uk, xurigexmu@gmail.com, joemon.jose@glasgow.ac.uk
 
