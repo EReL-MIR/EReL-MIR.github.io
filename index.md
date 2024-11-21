@@ -74,7 +74,7 @@ TBA
 
 - **Fuhai Chen**, Fuzhou University
 
--**Mingyue Cheng**, University of Science and Technology of China
+- **Mingyue Cheng**, University of Science and Technology of China
 
 
 
