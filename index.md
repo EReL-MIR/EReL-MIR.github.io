@@ -146,6 +146,17 @@ TBA
 - **Mingyue Cheng**, University of Science and Technology of China
 
 ## <a name='Contact' style="color: inherit; text-decoration: none;"> Program Committee</a>
-If you have any questions about the ERel@Workshop, you can contact the following email:
-j.fu.3@research.gla.ac.uk, xurigexmu@gmail.com, joemon.jose@glasgow.ac.uk
+<p>If you have any questions about the ERel@Workshop, you can contact the following emails:</p>
+<ul>
+  <li>
+    <a href="mailto:j.fu.3@research.gla.ac.uk">j.fu.3@research.gla.ac.uk</a>
+  </li>
+  <li>
+    <a href="mailto:xurigexmu@gmail.com">xurigexmu@gmail.com</a>
+  </li>
+  <li>
+    <a href="mailto:joemon.jose@glasgow.ac.uk">joemon.jose@glasgow.ac.uk</a>
+  </li>
+</ul>
+
 
