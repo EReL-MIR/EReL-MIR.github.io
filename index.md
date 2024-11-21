@@ -20,7 +20,7 @@ We invite researchers to submit their latest work to the EReL@MIR Workshop on fu
 - Benchmarks and Metrics for Multimodal Representation Learning Efficiency
 
 ## Submission Guidelines
-Submissions of papers must be at least 2 pages and at most 9 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
+Submissions of papers must be at least 4 pages and at most 8 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
 All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference. The review process of the submitted manuscripts will be done together with our program committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting.
 
@@ -31,7 +31,7 @@ At least one author of each accepted paper must attend the workshop on-site and 
 - Submission website open: **18 December, 2024**<br/>
 - Submission Deadlines: **18 December, 2024** <br/>
 - Acceptance Notification: **13 January, 2025**<br/>
-- EReL@MIR Workshop: **December 12, 2024**
+- EReL@MIR Workshop: TBA
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
