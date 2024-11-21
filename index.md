@@ -145,7 +145,7 @@ TBA
 
 - **Mingyue Cheng**, University of Science and Technology of China
 
-## <a name='Contact' style="color: inherit; text-decoration: none;"> Program Committee</a>
+## <a name='Contact' style="color: inherit; text-decoration: none;"> Contact</a>
 If you have any questions about the ERel@Workshop, you can contact the following emails:
 <ul>
   <li>
