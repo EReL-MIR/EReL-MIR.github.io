@@ -32,7 +32,8 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 - Submission website open: **TBA**<br/>
 - Submission Deadlines: **18 December, 2024** <br/>
 - Acceptance Notification: **13 January, 2025**<br/>
-- EReL@MIR Workshop: **TBA**<br/>
+- Camera-ready: **2 February, 2025**<br/>
+- EReL@MIR Workshop: **28-29 April**<br/>
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
