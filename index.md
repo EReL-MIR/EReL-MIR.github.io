@@ -22,9 +22,10 @@ We invite researchers to submit their latest work to the EReL@MIR Workshop on fu
 ## Submission Guidelines
 Submissions of papers must be at least 4 pages and at most 8 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
-All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference. The review process of the submitted manuscripts will be done together with our program committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting.
+<!-- All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.-->
+ The review process of the submitted manuscripts will be done together with our program committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting. 
 
-At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair: <https://easychair.org/conferences/?conf=r3agsigirap2024>.
+<!-- At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair: <https://easychair.org/conferences/?conf=r3agsigirap2024>. -->
 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
@@ -56,6 +57,24 @@ TBA
 
 
 
+## <a name='Program Committee' style="color: inherit; text-decoration: none;"> Program Committee</a>
+- **Hui Li**, Xiamen University
+
+- **Qian Li**, Beijing University of Posts and Telecommunications
+
+- **Siwei liu**, University of Glasgow
+
+- **Songpei Xu**, University of Sheffield
+
+- **Xi Wang**, University of Birmingham
+
+- **Jiayi Ji**, National University of Singapore
+
+- **Hengchang Hu**, National University of Singapore
+
+- **Fuhai Chen**, University of Glasgow
+
+-**Mingyue Cheng**, University of Science and Technology of China
 
 
 
