@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> The 1<sup>𝑠𝑡</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval </a> 
+## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval </a> 
 
 Multimodal representation learning has garnered significant attention in the AI community, largely due to the success of large pre-trained multimodal foundation models like LLaMA, GPT, Mistral, and CLIP. These models have achieved remarkable performance across various tasks of multimodal information retrieval (MIR), including web search, cross-modal retrieval, and recommender systems, etc. However, due to their enormous parameter sizes, significant efficiency challenges emerge across training, deployment, and inference stages when adapting these models' representation for IR tasks. These challenges present substantial obstacles to the practical adaptation of foundation models for representation learning in information retrieval tasks.
 
@@ -32,7 +32,6 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 - Submission website open: **18 December, 2024**<br/>
 - Submission Deadlines: **18 December, 2024** <br/>
 - Acceptance Notification: **13 January, 2025**<br/>
-- Camera Ready Due: **02 February, 2025**<br/>
 - EReL@MIR Workshop: **TBA**<br/>
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
