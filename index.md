@@ -133,9 +133,9 @@ TBA
 
 - **Qian Li**, Beijing University of Posts and Telecommunications
 
-- **Siwei liu**, University of Glasgow
+- **Siwei liu**, University of Sheffield
 
-- **Songpei Xu**, University of Sheffield
+- **Songpei Xu**, University of Glasgow
 
 - **Xi Wang**, University of Birmingham
 
