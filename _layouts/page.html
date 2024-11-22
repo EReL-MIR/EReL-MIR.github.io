@@ -25,39 +25,15 @@ layout: default
 </header>
 
 <style>
-    /* 默认样式：大屏幕 */
-    .intro-header {
-        height: 60vh; /* 默认高度为视口高度的 60% */
-        width: 100%; /* 宽度始终自适应 */
-    }
-    
-    /* 中屏幕 (平板或较小窗口) */
-    @media (max-width: 768px) {
+    /* 针对小屏幕设备 */
+    @media only screen and (max-width: 767px) {
         .intro-header {
-            height: 50vh; /* 高度减少为视口高度的 50% */
-        }
-        .site-heading h1 {
-            font-size: 2.5rem; /* 调整标题字体大小 */
-        }
-        .site-heading .subheading {
-            font-size: 1.2rem; /* 调整副标题字体大小 */
+            background-size: contain; /* 让背景图片完整显示 */
+            background-position: center top; /* 根据需要调整背景位置 */
+            height: auto; /* 根据内容自动调整高度 */
         }
     }
-    
-    /* 小屏幕 (手机) */
-    @media (max-width: 480px) {
-        .intro-header {
-            height: 40vh; /* 手机上背景高度减小到视口高度的 40% */
-            background-size: contain; /* 图片按比例适应容器，不裁剪 */
-        }
-        .site-heading h1 {
-            font-size: 2rem; /* 调整标题字体更小 */
-        }
-        .site-heading .subheading {
-            font-size: 1rem; /* 副标题字体更小 */
-        }
-    }
-</style>
+    </style>
 
 <!-- Main Content -->
 <div class="container-fluid">
