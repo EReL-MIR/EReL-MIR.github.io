@@ -44,35 +44,35 @@ TBA
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start;">
 
   <!-- 第一行 (5 人) -->
-  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://gair-lab.github.io/members/2023junchen-fu.html" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Junchen Fu</b><br>University of Glasgow</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://xurige1995.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/Xuri-Ge.jpg" alt="Xuri Ge" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Xuri Ge</b><br>Shandong University</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://xinxin-me.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/xinxin.png" alt="Xin Xin" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Xin Xin</b><br>Shandong University</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://ii-research-yu.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/haitao-yu.png" alt="Haitao Yu" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Haitao Yu</b><br>University of Tsukuba</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(20% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://fengyue-leah.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/fengyue.jpg" alt="Yue Feng" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Yue Feng</b><br>University of Birmingham</p>
@@ -80,21 +80,21 @@ TBA
   </div>
 
   <!-- 第二行 (3 人) -->
-  <div style="flex: 1 1 calc(33% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://alexiskz.wordpress.com/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/alex.png" alt="Alexandros Karatzoglou" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(33% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://iarapakis.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/ioannis.png" alt="Ioannis Arapakis" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Ioannis Arapakis</b><br>Telefónica Scientific Research</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(33% - 20px); text-align: center;">
+  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://www.dcs.gla.ac.uk/~jj/" target="_blank" style="text-decoration: none; color: inherit;">
       <img src="img/organizers/joemon.png" alt="Joemon M. Jose" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
