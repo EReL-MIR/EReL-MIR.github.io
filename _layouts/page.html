@@ -10,6 +10,16 @@ layout: default
     background-repeat: no-repeat; /* 背景图片不重复 */
     height: 60vh; /* 将高度调整为 70% 的视窗高度 */
     width: 100%; /* 宽度占满页面 */
+    /* 响应式调整 - 中屏幕 */
+    @media (max-width: 768px) {
+        height: 50vh; /* 平板上高度减少到 50% */
+    }
+
+    /* 响应式调整 - 小屏幕 */
+    @media (max-width: 480px) {
+        height: 40vh; /* 手机上高度减少到 40% */
+        background-size: contain; /* 保证图片在窄屏中完整显示 */
+    }
 ">
     <div class="container">
         <div class="row">
