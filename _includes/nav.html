@@ -24,8 +24,8 @@
                     <!-- <li>
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li> -->
-                    <!-- {% assign anchor_names = 'Overview, Call for Papers, Important Dates, Schedule, Organizers, Program Committee, Contact' | split:', '%}
-                    {% for name in anchor_names %}                                 -->
+                    {% assign anchor_names = 'Overview, Call for Papers, Important Dates, Schedule, Organizers, Program Committee, Contact' | split:', '%}
+                    {% for name in anchor_names %}                                
                         <li>
                             <a href="{{ name | prepend:'#'}}">{{ name }}</a>
                         </li>
