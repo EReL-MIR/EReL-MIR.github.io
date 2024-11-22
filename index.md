@@ -53,7 +53,7 @@ TBA
   
   <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
     <a href="https://xurige1995.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/xuri.jpg" alt="Xuri Ge" style="border-radius: 50%; width: 200px; height: 200px;">
+      <img src="img/organizers/gexuri2.png" alt="Xuri Ge" style="border-radius: 50%; width: 200px; height: 200px;">
       <p><b>Xuri Ge</b><br>Shandong University</p>
     </a>
   </div>
