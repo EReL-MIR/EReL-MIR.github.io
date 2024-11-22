@@ -10,7 +10,7 @@ Multimodal representation learning has garnered significant attention in the AI 
 To address these pressing issues, we propose organizing the first EReL@MIR workshop at the Web Conference 2025, inviting participants to explore novel solutions, emerging problems, challenges, efficiency evaluation metrics and benchmarks. This workshop aims to provide a platform for both academic and industry researchers to engage in discussions, share insights, and foster collaboration toward achieving efficient and effective representation learning for multimodal information retrieval in the era of large foundation models. 
 
 ## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a> 
-We invite researchers to submit their latest work to the EReL@MIR Workshop on fundamental challenges in multimodal representation learning for Multimodal Information Retrieval (MIR).The topics of interest include, but are not limited to:
+We invite researchers to submit their latest work to the EReL@MIR Workshop on fundamental challenges in multimodal representation learning for Multimodal Information Retrieval (MIR). The topics of interest include, but are not limited to:
 - Efficient Multimodal Representation Adaptation based on Multimodal Foundation Models
 - Data-Efficiency in Multimodal Representation Learning
 - Efficient Multimodal Fusion for Representation Learning
