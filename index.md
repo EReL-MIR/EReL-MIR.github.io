@@ -135,9 +135,9 @@ TBA
 
 - **Songpei Xu**, University of Glasgow
 
-- **Xi Wang**, University of Birmingham
+- **Xi Wang**, University of Sheffield
 
-- **Jiayi Ji**, National University of Singapore
+- **Jiayi Ji**, National University of Singapore and Xiamen University
 
 - **Hengchang Hu**, National University of Singapore
 
