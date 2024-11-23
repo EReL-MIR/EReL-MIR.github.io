@@ -30,7 +30,7 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Submission website open: **TBA**<br/>
-- Submission Deadlines: **18 December, 2024** <br/>
+- Submission Deadlines: <span style="color:red;">**18 December, 2024**</span><br/>
 - Acceptance Notification: **13 January, 2025**<br/>
 - Camera-ready: **2 February, 2025**<br/>
 - EReL@MIR Workshop: **28-29 April**<br/>
