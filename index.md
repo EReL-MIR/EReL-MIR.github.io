@@ -3,7 +3,15 @@ layout: page
 description: ""
 ---
 
-## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval <img src="https://erel-mir.github.io/img/logo.ico" alt="EReL Logo" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;"></a> 
+<!-- ## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval</a>  -->
+<h2 style="text-align: center; font-size: 20px; color: inherit;">
+    The 1<sup>st</sup> EReL@MIR 
+    <img src="https://erel-mir.github.io/img/logo.ico" alt="EReL Logo" 
+         style="width: 20px; height: 20px; border-radius: 50%; vertical-align: middle; margin-left: 8px;">
+    Workshop on Efficient Representation Learning for Multimodal Information Retrieval
+</h2>
+
+
 
 Multimodal representation learning has garnered significant attention in the AI community, largely due to the success of large pre-trained multimodal foundation models like LLaMA, GPT, Mistral, and CLIP. These models have achieved remarkable performance across various tasks of multimodal information retrieval (MIR), including web search, cross-modal retrieval, and recommender systems, etc. However, due to their enormous parameter sizes, significant efficiency challenges emerge across training, deployment, and inference stages when adapting these models' representation for IR tasks. These challenges present substantial obstacles to the practical adaptation of foundation models for representation learning in information retrieval tasks.
 
