@@ -7,7 +7,7 @@ description: ""
 <h1 style="text-align: center; font-size: 28px; color: inherit; line-height: 1.5;">
     <span style="display: inline-flex; align-items: center; white-space: nowrap;">
         <img src="https://erel-mir.github.io/img/logo.ico" alt="EReL Logo"
-             style="width: 70px; height: 70px; border-radius: 50%; margin-right: 10px;vertical-align: -20px">
+             style="width: 60px; height: 60px; border-radius: 50%; margin-right: 10px; vertical-align: -20px">
     </span>
     The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval
 </h1>
