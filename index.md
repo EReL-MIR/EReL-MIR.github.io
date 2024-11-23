@@ -6,11 +6,10 @@ description: ""
 <!-- ## <a name='Overview' style="color: inherit; text-decoration: none; text-align: center;"> The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval</a>  -->
 <h1 style="text-align: center; font-size: 28px; color: inherit; line-height: 1.5;">
     <span style="display: inline-flex; align-items: center; white-space: nowrap;">
-        The 1<sup>st</sup> EReL@MIR
         <img src="https://erel-mir.github.io/img/logo.ico" alt="EReL Logo"
-             style="width: 32px; height: 32px; border-radius: 50%; margin-left: 8px;">
+             style="width: 50px; height: 50px; border-radius: 50%; margin-right: 5px;margin-top:5px">
     </span>
-    Workshop on Efficient Representation Learning for Multimodal Information Retrieval
+    The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for Multimodal Information Retrieval
 </h1>
 
 
