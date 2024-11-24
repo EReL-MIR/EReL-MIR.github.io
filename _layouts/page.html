@@ -2,16 +2,18 @@
 layout: default
 ---
 
-<!-- Page Header -->
 <header class="intro-header" style="
     background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
     background-size: contain; /* 背景图片覆盖整个容器 */
     background-color: white;
     background-position: center; /* 背景图片居中 */
     background-repeat: no-repeat; /* 背景图片不重复 */
-    height: 60vh; /* 将高度调整为 70% 的视窗高度 */
+    height: 60vh; /* 高度调整为视窗高度的60% */
     width: 100%; /* 宽度占满页面 */
+    margin: 0; /* 移除外边距 */
+    padding: 0; /* 移除内边距 */
 ">
+</header>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
