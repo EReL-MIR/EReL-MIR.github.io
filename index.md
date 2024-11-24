@@ -114,69 +114,74 @@ TBA
 </div>
 
 <style>
-  .organizers-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center; /* 居中对齐 */
-  }
+.organizers-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: start;
+}
 
+.organizer {
+  flex: 1 1 calc(25% - 20px);
+  max-width: calc(25% - 20px);
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.organizer img {
+  width: 100%;
+  max-width: 150px; /* 限制头像最大宽度为150px */
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto; /* 居中显示 */
+}
+
+.organizer a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.organizer p {
+  margin-top: 10px;
+}
+
+/* 在大屏幕上，每行显示4个头像 */
+@media (min-width: 1025px) {
   .organizer {
-    flex: 1 1 120px; /* 固定宽度为120px */
-    max-width: 120px;
-    text-align: center;
-    box-sizing: border-box;
-    margin: 10px; /* 添加外边距 */
+    flex: 1 1 calc(25% - 20px);
+    max-width: calc(25% - 20px);
   }
+}
 
+/* 中等屏幕，每行显示3个头像 */
+@media (max-width: 1024px) {
+  .organizer {
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+  }
+}
+
+/* 小屏幕，每行显示2个头像 */
+@media (max-width: 768px) {
+  .organizer {
+    flex: 1 1 calc(50% - 20px);
+    max-width: calc(50% - 20px);
+  }
+}
+
+/* 超小屏幕，每行显示1个头像，并缩小头像尺寸 */
+@media (max-width: 480px) {
+  .organizer {
+    flex: 1 1 calc(100% - 20px);
+    max-width: calc(100% - 20px);
+  }
+  
   .organizer img {
-    width: 100%;
-    height: auto;
-    border-radius: 50%;
-    display: block;
+    max-width: 80px; /* 在超小屏幕上，将头像最大宽度限制为80px */
   }
+}
 
-  .organizer a {
-    text-decoration: none;
-    color: inherit;
-  }
-
-  .organizer p {
-    margin-top: 10px;
-    font-size: 14px; /* 调整字体大小 */
-  }
-
-  /* 大屏幕：每行显示4个头像 */
-  @media (min-width: 1025px) {
-    .organizer {
-      flex: 1 1 120px;
-      max-width: 120px;
-    }
-  }
-
-  /* 中等屏幕：每行显示3个头像 */
-  @media (max-width: 1024px) {
-    .organizer {
-      flex: 1 1 25%;
-      max-width: 25%;
-    }
-  }
-
-  /* 小屏幕：每行显示2个头像 */
-  @media (max-width: 768px) {
-    .organizer {
-      flex: 1 1 45%;
-      max-width: 45%;
-    }
-  }
-
-  /* 超小屏幕：每行显示1个头像 */
-  @media (max-width: 480px) {
-    .organizer {
-      flex: 1 1 100%;
-      max-width: 100%;
-    }
-  }
 </style>
 
 
