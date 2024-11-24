@@ -51,69 +51,114 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 TBA
 
 
-## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: start;">
-
+<div class="organizers-container">
   <!-- 第一行 (5 人) -->
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://gair-lab.github.io/members/2023junchen-fu.html" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://gair-lab.github.io/members/2023junchen-fu.html" target="_blank">
+      <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu">
       <p><b>Junchen Fu</b><br>University of Glasgow</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://xurige1995.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/gexuri2.png" alt="Xuri Ge" style="border-radius: 50%; width: 200px; height: 200px;">
-      <p><b>Xuri Ge</b><br>Shandong University<br>Univeristy of Glasgow</p>
+  <div class="organizer">
+    <a href="https://xurige1995.github.io/" target="_blank">
+      <img src="img/organizers/gexuri2.png" alt="Xuri Ge">
+      <p><b>Xuri Ge</b><br>Shandong University<br>University of Glasgow</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://xinxin-me.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/xinxin.png" alt="Xin Xin" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://xinxin-me.github.io/" target="_blank">
+      <img src="img/organizers/xinxin.png" alt="Xin Xin">
       <p><b>Xin Xin</b><br>Shandong University</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://ii-research-yu.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/haitao-yu.png" alt="Haitao Yu" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://ii-research-yu.github.io/" target="_blank">
+      <img src="img/organizers/haitao-yu.png" alt="Haitao Yu">
       <p><b>Haitao Yu</b><br>University of Tsukuba</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://fengyue-leah.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/fengyue.jpg" alt="Yue Feng" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://fengyue-leah.github.io/" target="_blank">
+      <img src="img/organizers/fengyue.jpg" alt="Yue Feng">
       <p><b>Yue Feng</b><br>University of Birmingham</p>
     </a>
   </div>
 
   <!-- 第二行 (3 人) -->
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://alexiskz.wordpress.com/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/alex.png" alt="Alexandros Karatzoglou" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://alexiskz.wordpress.com/" target="_blank">
+      <img src="img/organizers/alex.png" alt="Alexandros Karatzoglou">
       <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://iarapakis.github.io/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/ioannis.png" alt="Ioannis Arapakis" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://iarapakis.github.io/" target="_blank">
+      <img src="img/organizers/ioannis.png" alt="Ioannis Arapakis">
       <p><b>Ioannis Arapakis</b><br>Telefónica Scientific Research</p>
     </a>
   </div>
   
-  <div style="flex: 1 1 calc(25% - 20px); text-align: center;">
-    <a href="https://www.dcs.gla.ac.uk/~jj/" target="_blank" style="text-decoration: none; color: inherit;">
-      <img src="img/organizers/joemon.png" alt="Joemon M. Jose" style="border-radius: 50%; width: 200px; height: 200px;">
+  <div class="organizer">
+    <a href="https://www.dcs.gla.ac.uk/~jj/" target="_blank">
+      <img src="img/organizers/joemon.png" alt="Joemon M. Jose">
       <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
     </a>
   </div>
-
 </div>
+
+<style>
+  .organizers-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: start;
+  }
+
+  .organizer {
+    flex: 1 1 calc(25% - 20px);
+    max-width: 200px;
+    text-align: center;
+  }
+
+  .organizer img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+  }
+
+  .organizer a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .organizer p {
+    margin-top: 10px;
+  }
+
+  @media (max-width: 1024px) {
+    .organizer {
+      flex: 1 1 calc(33.33% - 20px);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .organizer {
+      flex: 1 1 calc(50% - 20px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .organizer {
+      flex: 1 1 calc(100% - 20px);
+    }
+  }
+</style>
 
 
 
