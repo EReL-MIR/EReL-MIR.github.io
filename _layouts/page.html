@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!-- 
 <header class="intro-header" style="
     background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
     background-size: contain; /* 背景图片覆盖整个容器 */
@@ -25,7 +25,7 @@ layout: default
             </div>
         </div>
     </div>
-</header>
+</header> -->
 
 <header class="intro-header" style="
     background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
@@ -39,6 +39,21 @@ layout: default
     padding: 0; /* 移除内边距 */
 ">
 </header>
+
+<style>
+    /* 针对小屏幕的优化 */
+    @media (max-width: 768px) {
+        .intro-header {
+            height: 40vh; /* 减小高度 */
+        }
+    }
+
+    @media (max-width: 480px) {
+        .intro-header {
+            height: 30vh; /* 更小屏幕时进一步减少高度 */
+        }
+    }
+</style>
 
 <style>
     /* 针对小屏幕的优化 */
