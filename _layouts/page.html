@@ -26,54 +26,37 @@ layout: default
     </div>
 </header> -->
 
-<header class="intro-header" style="
-    background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-    background-size: cover; /* 背景图片覆盖整个容器 */
-    background-color: white;
-    background-position: center; /* 背景图片居中 */
-    background-repeat: no-repeat; /* 背景图片不重复 */
-    height: 60vh; /* 默认高度为视窗高度的60% */
-    width: 100%; /* 宽度占满页面 */
-    margin: 0; /* 移除外边距 */
-    padding: 0; /* 移除内边距 */
-    
-">
-</header>
+<header class="intro-header"></header>
 
 <style>
-    /* 基础样式 */
     .intro-header {
+        position: relative;
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
-        background-size: cover; /* 背景图片覆盖整个容器 */
-        background-color: white;
-        background-position: center; /* 背景图片居中 */
-        background-repeat: no-repeat; /* 背景图片不重复 */
-        height: 60vh; /* 默认高度 */
-        width: 100%; /* 宽度占满页面 */
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: auto;
+        padding-top: 60%; /* 根据需要调整此值以设置宽高比 */
         margin: 0;
-        padding: 0;
-        overflow: hidden; /* 防止图片溢出 */
+        overflow: hidden;
+    }
+
+    /* 针对中等屏幕的适配 */
+    @media (max-width: 768px) {
+        .intro-header {
+            padding-top: 50%; /* 调整宽高比以适配中等屏幕 */
+        }
     }
 
     /* 针对小屏幕的适配 */
-    @media (max-width: 768px) {
-        .intro-header {
-            background-size: contain; /* 小屏幕时调整为 contain */
-            background-position: top center; /* 图片从顶部开始居中显示 */
-            height: 40vh; /* 高度适当减少 */
-        }
-    }
-
     @media (max-width: 480px) {
         .intro-header {
-            background-image: url('{{ site.baseurl }}/path-to-small-image.jpg'); /* 更换更小分辨率的图片 */
-            background-size: cover; /* 再次覆盖整个区域 */
-            background-position: center; /* 居中显示 */
-            height: auto; /* 让高度根据内容动态调整 */
-            padding: 10px 0; /* 增加顶部和底部的适当内边距 */
+            padding-top: 40%; /* 调整宽高比以适配小屏幕 */
         }
     }
 </style>
+
 
 
 
