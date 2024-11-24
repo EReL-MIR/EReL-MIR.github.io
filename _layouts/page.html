@@ -27,6 +27,34 @@ layout: default
     </div>
 </header>
 
+<header class="intro-header" style="
+    background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
+    background-size: cover; /* 背景图片覆盖整个容器 */
+    background-color: white;
+    background-position: center; /* 背景图片居中 */
+    background-repeat: no-repeat; /* 背景图片不重复 */
+    height: 60vh; /* 默认高度为视窗高度的60% */
+    width: 100%; /* 宽度占满页面 */
+    margin: 0; /* 移除外边距 */
+    padding: 0; /* 移除内边距 */
+">
+</header>
+
+<style>
+    /* 针对小屏幕的优化 */
+    @media (max-width: 768px) {
+        .intro-header {
+            height: 40vh; /* 减小高度 */
+        }
+    }
+
+    @media (max-width: 480px) {
+        .intro-header {
+            height: 30vh; /* 更小屏幕时进一步减少高度 */
+        }
+    }
+</style>
+
 
 <!-- Main Content -->
 <div class="container-fluid">
