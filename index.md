@@ -51,6 +51,8 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 TBA
 
 
+## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
+
 <div class="organizers-container">
   <!-- 第一行 (5 人) -->
   <div class="organizer">
@@ -121,8 +123,9 @@ TBA
 
   .organizer {
     flex: 1 1 calc(25% - 20px);
-    max-width: 200px;
+    max-width: calc(25% - 20px);
     text-align: center;
+    box-sizing: border-box;
   }
 
   .organizer img {
@@ -141,26 +144,38 @@ TBA
     margin-top: 10px;
   }
 
+  /* 在大屏幕上，确保每行显示4个头像 */
+  @media (min-width: 1025px) {
+    .organizer {
+      flex: 1 1 calc(25% - 20px);
+      max-width: calc(25% - 20px);
+    }
+  }
+
+  /* 中等屏幕，每行显示3个头像 */
   @media (max-width: 1024px) {
     .organizer {
       flex: 1 1 calc(33.33% - 20px);
+      max-width: calc(33.33% - 20px);
     }
   }
 
+  /* 小屏幕，每行显示2个头像 */
   @media (max-width: 768px) {
     .organizer {
       flex: 1 1 calc(50% - 20px);
+      max-width: calc(50% - 20px);
     }
   }
 
+  /* 超小屏幕，每行显示1个头像 */
   @media (max-width: 480px) {
     .organizer {
       flex: 1 1 calc(100% - 20px);
+      max-width: calc(100% - 20px);
     }
   }
 </style>
-
-
 
 
 
