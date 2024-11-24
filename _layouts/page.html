@@ -36,38 +36,51 @@ layout: default
     width: 100%; /* 宽度占满页面 */
     margin: 0; /* 移除外边距 */
     padding: 0; /* 移除内边距 */
+    
 ">
 </header>
 
 <style>
+    /* 基础样式 */
+    .intro-header {
+        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}');
+        background-size: cover; /* 背景图片覆盖整个容器 */
+        background-color: white;
+        background-position: center; /* 背景图片居中 */
+        background-repeat: no-repeat; /* 背景图片不重复 */
+        height: 60vh; /* 默认高度 */
+        width: 100%; /* 宽度占满页面 */
+        margin: 0; /* 移除外边距 */
+        padding: 0; /* 移除内边距 */
+        display: flex; /* 使用 flex 布局 */
+        align-items: center; /* 垂直居中内容 */
+        justify-content: center; /* 水平居中内容 */
+        overflow: hidden; /* 避免溢出导致的滚动条 */
+    }
+
     /* 针对小屏幕的优化 */
     @media (max-width: 768px) {
         .intro-header {
             height: 40vh; /* 减小高度 */
+            padding: 0; /* 确保没有内边距 */
         }
     }
 
     @media (max-width: 480px) {
         .intro-header {
-            height: 30vh; /* 更小屏幕时进一步减少高度 */
-        }
-    }
-</style>
-
-<style>
-    /* 针对小屏幕的优化 */
-    @media (max-width: 768px) {
-        .intro-header {
-            height: 40vh; /* 减小高度 */
+            height: auto; /* 根据内容动态调整高度 */
+            padding: 10px 0; /* 增加顶部和底部的适当内边距 */
         }
     }
 
-    @media (max-width: 480px) {
-        .intro-header {
-            height: 30vh; /* 更小屏幕时进一步减少高度 */
-        }
+    /* 全局样式确保无多余白边 */
+    html, body {
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden; /* 防止横向滚动条 */
     }
 </style>
+
 
 
 <!-- Main Content -->
