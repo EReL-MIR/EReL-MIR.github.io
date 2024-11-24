@@ -118,14 +118,15 @@ TBA
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: start;
+    justify-content: center; /* 居中对齐 */
   }
 
   .organizer {
-    flex: 1 1 calc(25% - 20px);
-    max-width: calc(25% - 20px);
+    flex: 1 1 120px; /* 固定宽度为120px */
+    max-width: 120px;
     text-align: center;
     box-sizing: border-box;
+    margin: 10px; /* 添加外边距 */
   }
 
   .organizer img {
@@ -142,37 +143,38 @@ TBA
 
   .organizer p {
     margin-top: 10px;
+    font-size: 14px; /* 调整字体大小 */
   }
 
-  /* 在大屏幕上，确保每行显示4个头像 */
+  /* 大屏幕：每行显示4个头像 */
   @media (min-width: 1025px) {
     .organizer {
-      flex: 1 1 calc(25% - 20px);
-      max-width: calc(25% - 20px);
+      flex: 1 1 120px;
+      max-width: 120px;
     }
   }
 
-  /* 中等屏幕，每行显示3个头像 */
+  /* 中等屏幕：每行显示3个头像 */
   @media (max-width: 1024px) {
     .organizer {
-      flex: 1 1 calc(33.33% - 20px);
-      max-width: calc(33.33% - 20px);
+      flex: 1 1 25%;
+      max-width: 25%;
     }
   }
 
-  /* 小屏幕，每行显示2个头像 */
+  /* 小屏幕：每行显示2个头像 */
   @media (max-width: 768px) {
     .organizer {
-      flex: 1 1 calc(50% - 20px);
-      max-width: calc(50% - 20px);
+      flex: 1 1 45%;
+      max-width: 45%;
     }
   }
 
-  /* 超小屏幕，每行显示1个头像 */
+  /* 超小屏幕：每行显示1个头像 */
   @media (max-width: 480px) {
     .organizer {
-      flex: 1 1 calc(100% - 20px);
-      max-width: calc(100% - 20px);
+      flex: 1 1 100%;
+      max-width: 100%;
     }
   }
 </style>
