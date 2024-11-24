@@ -36,6 +36,7 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 <!-- All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.-->
  The review process of the submitted manuscripts will be done together with our program committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting. The submission website will be announced soon.
 
+Authors of accepted papers may choose whether to include their work in the WWW'25 Companion proceedings. Opting for inclusion will classify the paper as published in an archival venue, thereby preventing submission to other conferences or journals. Alternatively, authors who opt out retain the ability to submit their work to other venues for consideration. We will reach out to the authors of accepted papers at a later time to facilitate this decision.
 <!-- At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair: <https://easychair.org/conferences/?conf=r3agsigirap2024>. -->
 
 
