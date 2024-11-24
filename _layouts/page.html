@@ -50,34 +50,28 @@ layout: default
         background-repeat: no-repeat; /* 背景图片不重复 */
         height: 60vh; /* 默认高度 */
         width: 100%; /* 宽度占满页面 */
-        margin: 0; /* 移除外边距 */
-        padding: 0; /* 移除内边距 */
-        display: flex; /* 使用 flex 布局 */
-        align-items: center; /* 垂直居中内容 */
-        justify-content: center; /* 水平居中内容 */
-        overflow: hidden; /* 避免溢出导致的滚动条 */
+        margin: 0;
+        padding: 0;
+        overflow: hidden; /* 防止图片溢出 */
     }
 
-    /* 针对小屏幕的优化 */
+    /* 针对小屏幕的适配 */
     @media (max-width: 768px) {
         .intro-header {
-            height: 40vh; /* 减小高度 */
-            padding: 0; /* 确保没有内边距 */
+            background-size: contain; /* 小屏幕时调整为 contain */
+            background-position: top center; /* 图片从顶部开始居中显示 */
+            height: 40vh; /* 高度适当减少 */
         }
     }
 
     @media (max-width: 480px) {
         .intro-header {
-            height: auto; /* 根据内容动态调整高度 */
+            background-image: url('{{ site.baseurl }}/path-to-small-image.jpg'); /* 更换更小分辨率的图片 */
+            background-size: cover; /* 再次覆盖整个区域 */
+            background-position: center; /* 居中显示 */
+            height: auto; /* 让高度根据内容动态调整 */
             padding: 10px 0; /* 增加顶部和底部的适当内边距 */
         }
-    }
-
-    /* 全局样式确保无多余白边 */
-    html, body {
-        margin: 0;
-        padding: 0;
-        overflow-x: hidden; /* 防止横向滚动条 */
     }
 </style>
 
