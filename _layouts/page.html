@@ -26,7 +26,7 @@ layout: default
     </div>
 </header> -->
 
-<header class="intro-header"></header>
+<!-- <header class="intro-header"></header>
 
 <style>
     .intro-header {
@@ -56,6 +56,47 @@ layout: default
             background-position: center top;
         }
     }
+</style> -->
+<header class="intro-header">
+    <img src="{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}" alt="Header Image" class="header-img">
+</header>
+
+<style>
+/* 基础样式 */
+.intro-header {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.header-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover; /* 确保图片覆盖容器 */
+}
+
+/* 针对大屏幕（桌面设备）的样式 */
+@media (min-width: 769px) {
+    .intro-header {
+        height: 60vh; /* 高度为视口高度的60% */
+    }
+}
+
+/* 针对中等屏幕（平板设备）的样式 */
+@media (max-width: 768px) and (min-width: 481px) {
+    .intro-header {
+        height: 50vh; /* 高度为视口高度的50% */
+    }
+}
+
+/* 针对小屏幕（手机设备）的样式 */
+@media (max-width: 480px) {
+    .intro-header {
+        height: 40vh; /* 高度为视口高度的40% */
+    }
+}
 </style>
 
 
