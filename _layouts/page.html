@@ -36,8 +36,7 @@ layout: default
         background-position: center center;
         background-repeat: no-repeat;
         width: 100%;
-        height: auto;
-        padding-top: 60%; /* 根据需要调整此值以设置宽高比 */
+        height: 60vh; /* 使用视口高度的60% */
         margin: 0;
         overflow: hidden;
     }
@@ -45,17 +44,20 @@ layout: default
     /* 针对中等屏幕的适配 */
     @media (max-width: 768px) {
         .intro-header {
-            padding-top: 50%; /* 调整宽高比以适配中等屏幕 */
+            height: 50vh; /* 调整为视口高度的50% */
         }
     }
 
     /* 针对小屏幕的适配 */
     @media (max-width: 480px) {
         .intro-header {
-            padding-top: 40%; /* 调整宽高比以适配小屏幕 */
+            height: 40vh; /* 调整为视口高度的40% */
+            background-size: cover;
+            background-position: center top;
         }
     }
 </style>
+
 
 
 
