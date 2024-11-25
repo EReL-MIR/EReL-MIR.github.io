@@ -241,3 +241,115 @@ If you have any questions about the EReL@Workshop, you can contact the following
 </ul>
 
 
+## <a name='Organization' style="color: inherit; text-decoration: none;"> Organization </a>
+
+<div class="organization-container">
+  <!-- 第一行 (5 人) -->
+  <div class="organization">
+    <a href="https://gair-lab.github.io/" target="_blank">
+      <img src="img/organization/gair_lab.png" alt="GAIR Lab">
+    </a>
+  </div>
+  
+  <div class="organization">
+    <a href="https://www.en.sdu.edu.cn/" target="_blank">
+      <img src="img/organization/shandong_university.png" alt="Shandong University">
+    </a>
+  </div>
+  
+  <div class="organization">
+    <a href="https://www.tsukuba.ac.jp/en/" target="_blank">
+      <img src="img/organization/University-Tsukuba-Logo.png" alt="Haitao Yu">
+    </a>
+  </div>
+  
+  <div class="organization">
+    <a href="https://www.birmingham.ac.uk/" target="_blank">
+      <img src="img/organization/UofB.jpg" alt="University of Birmingham">
+    </a>
+  </div>
+
+  <!-- 第二行 (3 人) -->
+  <div class="organization">
+    <a href="https://www.amazon.science/" target="_blank">
+      <img src="img/organization/Amazon_logo.png" alt="Amazon">
+    </a>
+  </div>
+  
+  <div class="organization">
+    <a href="https://www.amazon.science/" target="_blank">
+      <img src="img/organization/telefonica.jpg" alt="Telefonica">
+    </a>
+  </div>
+</div>
+
+<style>
+.organization-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top: 40px;
+  justify-content: center; /* 将子元素居中对齐 */
+}
+
+.organization {
+  flex: 1 1 calc(25% - 20px);
+  max-width: calc(25% - 20px);
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.organization img {
+  width: 100%;
+  max-width: 250px; /* 限制头像最大宽度为150px */
+  height: auto;
+  display: block;
+  margin: 0 auto; /* 图片自身居中 */
+}
+
+.organization a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.organization p {
+  margin-top: 10px;
+}
+
+/* 在大屏幕上，每行显示4个头像 */
+@media (min-width: 1025px) {
+  .organization {
+    flex: 1 1 calc(33% - 20px);
+    max-width: calc(33% - 20px);
+  }
+}
+
+/* 中等屏幕，每行显示3个头像 */
+@media (max-width: 1024px) {
+  .organization {
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+  }
+}
+
+/* 小屏幕，每行显示2个头像 */
+@media (max-width: 768px) {
+  .organization {
+    flex: 1 1 calc(50% - 20px);
+    max-width: calc(50% - 20px);
+  }
+}
+
+/* 超小屏幕，每行显示1个头像，并缩小头像尺寸 */
+@media (max-width: 480px) {
+  .organization {
+    flex: 1 1 calc(100% - 20px);
+    max-width: calc(100% - 20px);
+  }
+  
+  .organization img {
+    max-width: 80px; /* 在超小屏幕上，将头像最大宽度限制为80px */
+  }
+}
+</style>
+
