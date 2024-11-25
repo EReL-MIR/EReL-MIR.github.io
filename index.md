@@ -277,8 +277,8 @@ If you have any questions about the EReL@Workshop, you can contact the following
   </div>
   
   <div class="organization">
-    <a href="https://www.amazon.science/" target="_blank">
-      <img src="img/organization/telefonica.jpg" alt="Telefonica">
+    <a href="https://hub.telefonica.com/en/research" target="_blank">
+      <img src="img/organization/telefonica-logo.jpg" alt="Telefonica">
     </a>
   </div>
 </div>
