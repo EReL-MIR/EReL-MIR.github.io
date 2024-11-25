@@ -243,7 +243,7 @@ If you have any questions about the EReL@Workshop, you can contact the following
 </ul>
 
 
-## <a name='Organization' style="color: inherit; text-decoration: none;"> Organization </a>
+## <a name='Organization' style="color: inherit; text-decoration: none;"> Organized by </a>
 
 <div class="organization-container">
   <!-- 第一行 (5 人) -->
