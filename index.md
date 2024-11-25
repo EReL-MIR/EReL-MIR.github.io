@@ -253,7 +253,7 @@ If you have any questions about the EReL@Workshop, you can contact the following
   
   <div class="organization">
     <a href="https://www.en.sdu.edu.cn/" target="_blank">
-      <img src="img/organization/shandong_university.png" alt="Shandong University">
+      <img src="img/organization/shandong University.png" alt="Shandong University">
     </a>
   </div>
   
@@ -265,14 +265,14 @@ If you have any questions about the EReL@Workshop, you can contact the following
   
   <div class="organization">
     <a href="https://www.birmingham.ac.uk/" target="_blank">
-      <img src="img/organization/University-of-Birmingham-logo.png" alt="University of Birmingham">
+      <img src="img/organization/UofB.png" alt="University of Birmingham">
     </a>
   </div>
 
   <!-- 第二行 (3 人) -->
   <div class="organization">
     <a href="https://www.amazon.science/" target="_blank">
-      <img src="img/organization/Amazon_logo.png" alt="Amazon">
+      <img src="img/organization/Amazon.png" alt="Amazon">
     </a>
   </div>
   
