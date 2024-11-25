@@ -289,6 +289,7 @@ If you have any questions about the EReL@Workshop, you can contact the following
   flex-wrap: wrap;
   gap: 20px;
   margin-top: 40px;
+  margin-bottom: 40px;
   justify-content: center; /* 将子元素居中对齐 */
 }
 
