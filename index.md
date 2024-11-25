@@ -265,7 +265,7 @@ If you have any questions about the EReL@Workshop, you can contact the following
   
   <div class="organization">
     <a href="https://www.birmingham.ac.uk/" target="_blank">
-      <img src="img/organization/UofB.jpg" alt="University of Birmingham">
+      <img src="img/organization/University-of-Birmingham-logo.png" alt="University of Birmingham">
     </a>
   </div>
 
