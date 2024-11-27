@@ -103,7 +103,7 @@ TBA
   
   <div class="organizer">
     <a href="https://iarapakis.github.io/" target="_blank">
-      <img src="img/organizers/ioannis.png" alt="Ioannis Arapakis">
+      <img src="img/organizers/ioannis2.png" alt="Ioannis Arapakis">
       <p><b>Ioannis Arapakis</b><br>Telefónica Scientific Research</p>
     </a>
   </div>
