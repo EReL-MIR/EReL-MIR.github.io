@@ -46,7 +46,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-- Submission website open: **TBA**<br/>
+- Submission website open: **<a href="https://easychair.org/conferences/?conf=erelmir2025">https://easychair.org/conferences/?conf=erelmir2025</a>**<br/>
 - Submission Deadlines: <span style="color:red;">**18 December, 2024**</span><br/>
 - Acceptance Notification: **13 January, 2025**<br/>
 - Camera-ready: **2 February, 2025**<br/>
