@@ -62,7 +62,7 @@ TBA
 <div class="organizers-container">
   <!-- 第一行 (5 人) -->
   <div class="organizer">
-    <a href="https://gair-lab.github.io/members/2023junchen-fu.html" target="_blank">
+    <a href="https://junchen-fu.github.io/" target="_blank">
       <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu">
       <p><b>Junchen Fu</b><br>University of Glasgow</p>
     </a>
