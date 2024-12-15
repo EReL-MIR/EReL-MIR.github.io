@@ -47,8 +47,8 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Submission Deadline: ~~18 December, 2024~~ <span style="color:red;">1 January, 2025</span>
-- Acceptance Notification: ~~13 January, 2025~~ <span style="color:red;">27 January, 2025</span>
-- Camera-ready: ~~2 February, 2025~~ <span style="color:red;">7 February, 2025</span>
+- Acceptance Notification: ~~13 January, 2025~~ <span style="color:black;">27 January, 2025</span>
+- Camera-ready: ~~2 February, 2025~~ <span style="color:black;">7 February, 2025</span>
 - EReL@MIR Workshop: **28-29 April**
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
