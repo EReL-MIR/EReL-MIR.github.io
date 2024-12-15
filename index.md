@@ -46,11 +46,10 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-- Submission website open: **<a href="https://easychair.org/conferences/?conf=erelmir2025">https://easychair.org/conferences/?conf=erelmir2025</a>**<br/>
-- Submission Deadlines: <span style="color:red;">**18 December, 2024**</span><br/>
-- Acceptance Notification: **13 January, 2025**<br/>
-- Camera-ready: **2 February, 2025**<br/>
-- EReL@MIR Workshop: **28-29 April**<br/>
+- Submission Deadline: ~~18 December, 2024~~ <span style="color:red;">1 January, 2025</span>
+- Acceptance Notification: ~~13 January, 2025~~ <span style="color:red;">27 January, 2025</span>
+- Camera-ready: ~~2 February, 2025~~ <span style="color:red;">7 February, 2025</span>
+- EReL@MIR Workshop: **28-29 April** (unchanged)
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
