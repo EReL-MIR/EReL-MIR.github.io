@@ -11,4 +11,4 @@ title: MIR Challenge
     The 1<sup>st</sup> EReL@MIR Workshop on Efficient Representation Learning for <br> Multimodal Information Retrieval
 </h1>
 
-  <a href="/index.md">Link To Back</a>
+  <a href="../">Link To Back</a>
