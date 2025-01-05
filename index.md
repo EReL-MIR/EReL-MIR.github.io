@@ -19,6 +19,7 @@ Multimodal representation learning has garnered significant attention in the AI 
 To address these pressing issues, we propose organizing the first EReL@MIR workshop at the Web Conference 2025, inviting participants to explore novel solutions, emerging problems, challenges, efficiency evaluation metrics and benchmarks. This workshop aims to provide a platform for both academic and industry researchers to engage in discussions, share insights, and foster collaboration toward achieving efficient and effective representation learning for multimodal information retrieval in the era of large foundation models. 
 
 ## <a name='Call for Challenge Submissions' style="color: inherit; text-decoration: none;text-align: center;"> Call for Challenge Submissions </a> 
+ We call for Submissions for challenges. The details will be anounced soon.
   <a href="/challenge/">Challenge</a>
 
 
