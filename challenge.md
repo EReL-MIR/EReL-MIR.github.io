@@ -39,7 +39,7 @@ title: MIR Challenge
 
 .organization img {
   width: 100%;
-  max-width: 250px; /* 限制头像最大宽度为150px */
+  max-width: 150px; /* 限制头像最大宽度为150px */
   height: auto;
   display: block;
   margin: 0 auto; /* 图片自身居中 */
