@@ -14,7 +14,7 @@ title: MIR Challenge
 ## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by </a>
   <div class="organization">
     <a href="https://gair-lab.github.io/" target="_blank">
-      <img src="../img/organization/huaiwei-logo.png" alt="HUAWEI">
+      <img src="../img/organization/huawei-logo.png" alt="HUAWEI">
     </a>
   </div>
 
