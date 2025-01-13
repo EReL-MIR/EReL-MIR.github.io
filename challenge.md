@@ -25,8 +25,8 @@ title: MIR Challenge
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  margin-top: 40px;
-  margin-bottom: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   justify-content: center; /* 将子元素居中对齐 */
 }
 
