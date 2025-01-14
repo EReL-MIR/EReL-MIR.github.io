@@ -19,13 +19,66 @@ header-img: img/challenge.png
     display: block;
     margin: 0 auto;
 }
+
+/* 导航栏样式 */
+.navbar {
+    display: flex;
+    justify-content: center;
+    background-color: #f4f4f4;
+    padding: 10px 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    margin-bottom: 20px;
+}
+
+.navbar a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s, border-bottom 0.3s;
+}
+
+.navbar a:hover {
+    color: #007acc;
+    border-bottom: 2px solid #007acc;
+}
+
+/* 内容区域样式 */
+.tab-content {
+    padding: 20px;
+    animation: fade-in 0.5s ease;
+}
+
+/* 动画效果 */
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+    }
+
 </style>
 
+<div class="navbar">
+    <a href="{{ site.baseurl }}/challenge/overview.html">Overview</a>
+    <a href="{{ site.baseurl }}/challenge/mdr-track1.html">Track 1</a>
+    <a href="{{ site.baseurl }}/challenge/mmctr-track2.html">Track 2</a>
+    <a href="{{ site.baseurl }}/challenge/results.html">Results</a>
+    <a href="{{ site.baseurl }}/challenge/discussion.html">Discussion</a>
+    <a href="{{ site.baseurl }}/index.html">Back to Workshop</a>
+</div>
 
 
 <h1 style="text-align: center; font-size: 35px; color: inherit; line-height: 1.5;">
     Multimodal Information Retrieval Challenge for The 1<sup>st</sup> EReL@MIR Workshop
 </h1>
+
+
 
 ## Motivation
 
