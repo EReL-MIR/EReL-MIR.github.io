@@ -4,6 +4,9 @@ title: MIR Challenge
 header-img: none
 ---
 <style>
+  .intro-header {
+    display: none;
+}
 
 /* 导航栏样式 */
 .navbar {
