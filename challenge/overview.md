@@ -51,10 +51,10 @@ header-img: none
     }
 .image-container {
     width: 70%; /* 图片容器宽度 */
-    margin: 20px auto; /* 居中 */
+    margin: 0px auto; /* 居中 */
     text-align: center; /* 文本居中 */
     background-color: #f9f9f9; /* 背景颜色（可选） */
-    padding: 10px; /* 容器内边距 */
+    padding: 0px; /* 容器内边距 */
     border-radius: 8px; /* 圆角边框 */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
 }
