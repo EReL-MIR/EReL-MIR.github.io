@@ -1,6 +1,7 @@
 ---
 layout: page
 title: MIR Challenge
+header-img: img/challenge.png
 ---
 
 <h1 style="text-align: center; font-size: 35px; color: inherit; line-height: 1.5;">
