@@ -137,6 +137,9 @@ Participants are required to use the provided CTR model to evaluate the effectiv
 
 + If large models are used to extract embeddings, only open-source versions are allowed.
 
+<a href="../">Back</a> 
+<a href="./">Home</a>
+
 
 
 ## Task 2: Multimodal CTR Prediction
@@ -207,10 +210,18 @@ Participants are required to submit their source code for model reproduction and
 
 [1] Yongxin Ni, Yu Cheng, Xiangyan Liu, Junchen Fu, Youhua Li, Xiangnan He, Yongfeng Zhang, Fajie Yuan, A Content-Driven Micro-Video Recommendation Dataset at Scale, Arxiv 2023.
 
+<a href="../">Back</a> 
+<a href="./">Home</a>
 
 
-  <a href="../">Link To Back</a>
-  
+## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by </a>
+  <div class="organization">
+    <a href="https://gair-lab.github.io/" target="_blank">
+      <img src="../img/organization/huawei-logo.png" alt="HUAWEI">
+    </a>
+  </div>
+
+
 <style>
 .organization-container {
   display: flex;
