@@ -65,12 +65,12 @@ header-img: img/challenge.png
 </style>
 
 <div class="navbar">
-    <a href="{{ site.baseurl }}/challenge/overview.html">Overview</a>
-    <a href="{{ site.baseurl }}/challenge/mdr-track1.html">Track 1</a>
-    <a href="{{ site.baseurl }}/challenge/mmctr-track2.html">Track 2</a>
-    <a href="{{ site.baseurl }}/challenge/results.html">Results</a>
-    <a href="{{ site.baseurl }}/challenge/discussion.html">Discussion</a>
-    <a href="{{ site.baseurl }}/index.html">Back to Workshop</a>
+    <a href="{{ site.baseurl }}/challenge/overview/">Overview</a>
+    <a href="{{ site.baseurl }}/challenge/mdr-track1/">Track 1</a>
+    <a href="{{ site.baseurl }}/challenge/mmctr-track2/">Track 2</a>
+    <a href="{{ site.baseurl }}/challenge/results/">Results</a>
+    <a href="{{ site.baseurl }}/challenge/discussion/">Discussion</a>
+    <a href="{{ site.baseurl }}">Back to Workshop</a>
 </div>
 
 
