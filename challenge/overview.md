@@ -62,7 +62,6 @@ header-img: none
 /* 图片样式 */
 .image-container img {
     width: 100%; /* 图片宽度 */
-    max-width: 800px; /* 最大宽度 */
     height: auto; /* 等比例缩放 */
     border-radius: 4px; /* 图片圆角（可选） */
 }
