@@ -19,11 +19,11 @@ header-img: none
     position: sticky;
     top: 0;
     z-index: 1000;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .navbar a {
-    margin: 0 15px;
+    margin: 0 5px;
     text-decoration: none;
     color: rgb(255,255,255);
     font-weight: bold;
