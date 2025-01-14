@@ -1,24 +1,9 @@
 ---
 layout: page
 title: MIR Challenge
-header-img: img/challenge.png
+header-img: none
 ---
 <style>
-/* 容器样式 */
-.intro-header {
-    width: 83%;
-    margin: 0 auto;
-    padding: 0;
-    background-color: white; /* 设置背景颜色为白色 */
-}
-
-/* 图片样式 */
-.header-img {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-}
 
 /* 导航栏样式 */
 .navbar {
@@ -61,6 +46,23 @@ header-img: img/challenge.png
         opacity: 1;
     }
     }
+.image-container {
+    width: 70%; /* 图片容器宽度 */
+    margin: 20px auto; /* 居中 */
+    text-align: center; /* 文本居中 */
+    background-color: #f9f9f9; /* 背景颜色（可选） */
+    padding: 10px; /* 容器内边距 */
+    border-radius: 8px; /* 圆角边框 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
+}
+
+/* 图片样式 */
+.image-container img {
+    width: 100%; /* 图片宽度 */
+    max-width: 800px; /* 最大宽度 */
+    height: auto; /* 等比例缩放 */
+    border-radius: 4px; /* 图片圆角（可选） */
+}
 
 </style>
 
@@ -72,6 +74,11 @@ header-img: img/challenge.png
     <a href="{{ site.baseurl }}/challenge/discussion/">Discussion</a>
     <a href="{{ site.baseurl }}">Back to Workshop</a>
 </div>
+
+<div class="image-container">
+    <img src="{{ site.baseurl }}/img/challenge.png" alt="Challenge Image">
+</div>
+
 
 
 <h1 style="text-align: center; font-size: 35px; color: inherit; line-height: 1.5;">
