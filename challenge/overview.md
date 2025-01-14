@@ -6,7 +6,7 @@ header-img: img/challenge.png
 <style>
 /* 容器样式 */
 .intro-header {
-    width: 70%;
+    width: 100%;
     margin: 0 auto;
     padding: 0;
     background-color: white; /* 设置背景颜色为白色 */
