@@ -120,6 +120,144 @@ These themes aim to foster innovation in:
 
 ---
 
+## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
+
+<div class="organizers-container">
+  <!-- 第一行 (5 人) -->
+    <div class="organizer">
+    <a href="https://xurige1995.github.io/" target="_blank">
+      <img src="img/organizers/gexuri2.png" alt="Xuri Ge">
+      <p><b>Xuri Ge</b><br>Shandong University<br>University of Glasgow</p>
+    </a>
+  </div>
+
+
+
+  <div class="organizer">
+    <a href="https://junchen-fu.github.io/" target="_blank">
+      <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu">
+      <p><b>Junchen Fu</b><br>University of Glasgow</p>
+    </a>
+  </div>
+  
+
+  
+  <div class="organizer">
+    <a href="https://xinxin-me.github.io/" target="_blank">
+      <img src="img/organizers/xinxin.png" alt="Xin Xin">
+      <p><b>Xin Xin</b><br>Shandong University</p>
+    </a>
+  </div>
+  
+  <div class="organizer">
+    <a href="https://ii-research-yu.github.io/" target="_blank">
+      <img src="img/organizers/haitao-yu.png" alt="Haitao Yu">
+      <p><b>Haitao Yu</b><br>University of Tsukuba</p>
+    </a>
+  </div>
+  
+  <div class="organizer">
+    <a href="https://fengyue-leah.github.io/" target="_blank">
+      <img src="img/organizers/fengyue.jpg" alt="Yue Feng">
+      <p><b>Yue Feng</b><br>University of Birmingham</p>
+    </a>
+  </div>
+
+  <!-- 第二行 (3 人) -->
+  <div class="organizer">
+    <a href="https://alexiskz.wordpress.com/" target="_blank">
+      <img src="img/organizers/alex.png" alt="Alexandros Karatzoglou">
+      <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
+    </a>
+  </div>
+  
+  <div class="organizer">
+    <a href="https://iarapakis.github.io/" target="_blank">
+      <img src="img/organizers/ioannis2.png" alt="Ioannis Arapakis">
+      <p><b>Ioannis Arapakis</b><br>Telefónica Scientific Research</p>
+    </a>
+  </div>
+  
+  <div class="organizer">
+    <a href="https://www.dcs.gla.ac.uk/~jj/" target="_blank">
+      <img src="img/organizers/joemon.png" alt="Joemon M. Jose">
+      <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
+    </a>
+  </div>
+</div>
+
+<style>
+.organizers-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-top:40px;
+  justify-content: start;
+}
+
+.organizer {
+  flex: 1 1 calc(25% - 20px);
+  max-width: calc(25% - 20px);
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.organizer img {
+  width: 100%;
+  max-width: 150px; /* 限制头像最大宽度为150px */
+  height: auto;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto; /* 居中显示 */
+}
+
+.organizer a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.organizer p {
+  margin-top: 10px;
+}
+
+/* 在大屏幕上，每行显示4个头像 */
+@media (min-width: 1025px) {
+  .organizer {
+    flex: 1 1 calc(25% - 20px);
+    max-width: calc(25% - 20px);
+  }
+}
+
+/* 中等屏幕，每行显示3个头像 */
+@media (max-width: 1024px) {
+  .organizer {
+    flex: 1 1 calc(33.33% - 20px);
+    max-width: calc(33.33% - 20px);
+  }
+}
+
+/* 小屏幕，每行显示2个头像 */
+@media (max-width: 768px) {
+  .organizer {
+    flex: 1 1 calc(50% - 20px);
+    max-width: calc(50% - 20px);
+  }
+}
+
+/* 超小屏幕，每行显示1个头像，并缩小头像尺寸 */
+@media (max-width: 480px) {
+  .organizer {
+    flex: 1 1 calc(100% - 20px);
+    max-width: calc(100% - 20px);
+  }
+  
+  .organizer img {
+    max-width: 80px; /* 在超小屏幕上，将头像最大宽度限制为80px */
+  }
+}
+
+</style>
+
 
 ## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by Huawei</a>
 

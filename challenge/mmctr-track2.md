@@ -12,20 +12,21 @@ header-img: none
 .navbar {
     display: flex;
     justify-content: center;
-    background-color:rgb(27, 32, 122);
-    color:rgb(255,255,255);
+    background-color: rgb(27, 32, 122);
+    color: rgb(255, 255, 255);
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
     margin-bottom: 2px;
+    flex-wrap: wrap;
 }
 
 .navbar a {
     margin: 0 20px;
     text-decoration: none;
-    color: rgb(255,255,255);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     transition: color 0.3s, border-bottom 0.3s;
 }
@@ -33,6 +34,18 @@ header-img: none
 .navbar a:hover {
     color: #007acc;
     border-bottom: 2px solid #007acc;
+}
+
+@media screen and (max-width: 768px) {
+    .navbar {
+        justify-content: space-around;
+        padding: 10px;
+    }
+
+    .navbar a {
+        margin: 5px;
+        font-size: 14px;
+    }
 }
 
 /* 内容区域样式 */
