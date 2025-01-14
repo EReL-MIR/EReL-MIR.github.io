@@ -71,7 +71,7 @@ In this challenge, privately reserved test subset will be used for evaluation.
 
 Reference: https://preflmr.github.io/
 
-## Evaluation
+### Evaluation
 
 Participants' submissions will be evaluated on their ability to accurately retrieve relevant multimodal documents or passages based on user queries. 
 
@@ -87,11 +87,21 @@ The private test set is released for each of the dataset. The participants will 
 
 ---
 
-## Participation
+### Participation
 
 To participate in this challenge, researchers are required to:
 1. Develop multimodal retrieval systems capable of embedding modeling for multimodal queies and documents.
 2. Submit a single system's outputs for evaluation based on the datasets specified in each task.
+
+### Awards
+- **Track 1 Sub-task 1**: Excellence Award of 500 USD  
+- **Track 1 Sub-task 2**: Excellence Award of 500 USD  
+- **Track 1 Overall Rankings**:  
+  - 1st Place: 1500 USD  
+  - 2nd Place: 1000 USD  
+  - 3rd Place: 500 USD  
+- The **Challenge Chairs** will vote to select one team to receive a Travel Grant of 1000 USD.  
+
 
 This track aims to push forward the boundaries of multimodal document retrieval, encouraging innovation in embedding modeling and search efficiency. Join us to contribute to the next-generation advancements in this exciting space!
 
@@ -110,11 +120,11 @@ This track aims to push forward the boundaries of multimodal document retrieval,
 
 With the development of multimodal large models and the popularity of content recommendation applications, multimodal recommendation has become one of the most prominent paradigms in the research community. To promote breakthroughs in this field, we organize a Multimodal CTR prediction (MM-CTR) Challenge at the WWW 2025 EReL@MIR workshop. To meet the low-latency requirements of online inference in industrial applications,  we have divided the MM-CTR Challenge into two sub-tasks: Multimodal Item Embedding and Multimodal CTR Prediction. The first task centers on developing multimodal representation learning and fusion methods tailored for recommendation tasks, while the second focuses on designing CTR prediction models that effectively utilize multimodal representations to enhance recommendation performance. Through in-depth exploration on these two tasks, we aim to broden the boundary of multimodal recommendation and providing solutions with practical value and insights for industrial recommendation systems.
 
-## Dataset Description
+### Dataset Description
 
 We use the MicroLens dataset (specifically the MicroLens-1M version) released by Westlake University [1] for MM-CTR Challenge. This dataset contains 1M users and 9.1M user-item interaction records,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for evaluation, respectively. Data details will be announced later.
 
-## Task 1: Multimodal Item Embedding
+### Task 1: Multimodal Item Embedding
 
 This challenge aims to explore multimodal item embedding extraction methods that enhancing recommendation tasks. The organizers will provide downstream CTR model and evaluation datasets to validate the effectiveness of proposed methods. Participants are free to use open-source multimodal models, and design algorithms to extract multimodal embeddings. Extracted embeddings must be saved in a specified format and combined with ID features as input for downstream CTR model evaluation.
 
@@ -127,11 +137,11 @@ This challenge aims to explore multimodal item embedding extraction methods that
 
 * Multimodal embedding features (dimension size: 128)
 
-### Evaluation
+#### Evaluation
 
 Participants are required to use the provided CTR model to evaluate the effectiveness of the multimodal embeddings. Specifically, they should replace the embedding features in the CTR model's input with the features extracted in Task 1, retrain the model, evaluate its performance on the validation set, and predict pCTR on the test set for submission. In the preliminary round, participants only need to submit the pCTR prediction results. In the final round, participants must also submit reproducible training and inference code for the multimodal embeddings. The final leaderboard will be ranked based on reproducible submission results. The evaluation metric is AUC.
 
-### Constrain
+#### Constrain
 
 + Using any data outside the provided dataset is not allowed.
 
@@ -142,7 +152,7 @@ Participants are required to use the provided CTR model to evaluate the effectiv
 
 
 
-## Task 2: Multimodal CTR Prediction
+### Task 2: Multimodal CTR Prediction
 
 This challenge aims to explore what multimodal recommendation model can effectively leverage the multimodal embedding and achive better performance. The organizers will provide extracted multimodal embedding (from Task 1) and user interaction data splits. Participants can optimize and improve the multimodal recommendation model based on the provided baseline model to enhance the CTR prediction result. Finally, participants will submit the predicted pCTR on the test set for competition.
 
@@ -192,12 +202,9 @@ Final Submission End:
 
 Participants are required to submit their source code for model reproduction and final award competation. The review panel will reproduce results based on the leaderboard rankings, from highest to lowest. The top three teams in the reproduced results will be awarded as the 1st, 2nd, and 3rd place teams. Additionally, an Embedding Winner and a Model Winner will be selected for Task-1 and Task-2, respectively. If results cannot be reproduced or a team wins multiple awards, the prize will be passed to the next team.
 
-+ 1st Team: 1500 USD
++ 1st Team: 1500 USD + Travel Grant of 1000 USD  
 + 2nd Team: 1000 USD
 + 3rd Team: 500 USD
-+ Task-1 Embedding Winner: 500 USD
-+ Task-2 Model Winner: 500 USD
-+ Travel Award: 1000 USD (awarded to the team selected by the challenge committee)
 
 ### Rules
 
