@@ -7,6 +7,27 @@ title: MIR Challenge
     Multimodal Information Retrieval Challenge for The 1<sup>st</sup> EReL@MIR Workshop
 </h1>
 
+### Motivation
+
+In recent years, the rapid advancement of multimodal large models and the increasing demand for sophisticated information retrieval systems have highlighted the importance of integrating diverse modalities into real-world applications. Multimodal Information Retrieval (MIR) aims to address challenges where textual, visual, and other content modalities coexist, pushing the boundaries of search, recommendation, and information processing capabilities. 
+
+To address these challenges, we have organized two major themes, each consisting of two tracks:
+
+1. **Multimodal Document Retrieval Track**:
+   - **ViDoRe**: Vision Document Retrieval Benchmark.
+   - **M2KR**: Open-Domain Vision Retrieval Benchmark.
+
+2. **MM-CTR Challenge**:
+   - **Multimodal Item Embedding**.
+   - **Multimodal CTR Prediction**.
+
+These themes aim to foster innovation in:
+- Developing retrieval systems capable of handling diverse multimodal data.
+- Exploring efficient representation learning methods tailored for multimodal content.
+- Encouraging solutions that bridge academic research and industrial practices in multimodal retrieval and recommendation.
+
+
+
 ## <a name='EReL@MIR Track'> Multimodal Document Retrieval Track </a>
 
 ### Introduction
