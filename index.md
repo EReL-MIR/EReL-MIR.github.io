@@ -21,7 +21,7 @@ To address these pressing issues, we propose organizing the first EReL@MIR works
 ## <a name='Call for Challenge Submissions' style="color: inherit; text-decoration: none;text-align: center;"> Call for Challenge Submissions </a> 
 
 We invite submissions for upcoming challenges. Details will be announced soon at the following link:
-<a href="/challenge/">Challenge</a>
+<a href="challenge/overview.md">Challenge</a>
 
 
 ## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a> 
