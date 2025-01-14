@@ -14,7 +14,7 @@ header-img: none
     justify-content: center;
     background-color:rgb(27, 32, 122);
     color:rgb(255,255,255);
-    padding: 0 0;
+    padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
