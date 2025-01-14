@@ -6,20 +6,21 @@ header-img: img/challenge.png
 <style>
 /* 容器样式 */
 .intro-header {
-    width: 75%;
+    width: 90%;
     margin: 0 auto;
     padding: 0;
-    /* 移除了固定高度 */
+    background-color: white; /* 设置背景颜色为白色 */
 }
 
 /* 图片样式 */
 .header-img {
-    width: 75%;
+    width: 90%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 </style>
+
 
 
 <h1 style="text-align: center; font-size: 35px; color: inherit; line-height: 1.5;">
