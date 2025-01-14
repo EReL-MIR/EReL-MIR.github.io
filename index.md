@@ -40,7 +40,10 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 <!-- All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.-->
  The review process of the submitted manuscripts will be done together with our program committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting. At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair: <https://easychair.org/conferences/?conf=erelmir2025>.
 
-  <span style="color:red"><b>WWW2025 Fast Track</b></span> - <b>Papers rejected and/or withdrawn from WWW 2025 that wish to be submitted to EReL@MIR can use the same submission link. These submissions should include the review comments in an appendix. Such papers will bypass the peer-review process, with acceptance decisions made directly by the meta-reviewers.</b>
+## WWW2025 Fast Track
+  <span style="color:red"><b>WWW2025 Fast Track</b></span> - <b>Papers rejected and/or withdrawn from WWW 2025 that wish to be submitted to EReL@MIR can use the same submission link. These submissions should include the review comments in an appendix. Such papers will bypass the peer-review process, with acceptance decisions made directly by the meta-reviewers.</b> 
+  
+  In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
 
 
   
@@ -54,6 +57,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Submission Deadline: ~~18 December, 2024~~ <span style="color:red;"><b>6 January, 2025</b></span>
+- <span style="color:red;"><b>WWW2025 Fast Track (new): 20 January, 2025 - 27 January, 2025</b></span> 
 - Acceptance Notification: ~~13 January, 2025~~ <span style="color:black;">27 January, 2025</span>
 - Camera-ready: ~~2 February, 2025~~ <span style="color:black;">7 February, 2025</span>
 - EReL@MIR Workshop: **28-29 April**
