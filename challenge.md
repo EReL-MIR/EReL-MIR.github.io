@@ -168,7 +168,7 @@ Participants are required to use the multimodal embeddings provided by organizer
 
 
 
-### ## Submission Type
+### Submission Type
 
 Participants can choose one submission types listed below to engage in the challenge. We encourage participants to take on both challenges (Task 1 & Task 2) to fully understand the end-to-end process of multimodal recommendation application and design better solutions, thereby earning more rewards.
 
