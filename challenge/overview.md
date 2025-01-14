@@ -20,7 +20,7 @@ header-img: none
     top: 0;
     z-index: 1000;
     margin-bottom: 2px;
-    flex-wrap: wrap; /* 允许换行 */
+    flex-wrap: wrap;
 }
 
 .navbar a {
@@ -36,35 +36,15 @@ header-img: none
     border-bottom: 2px solid #007acc;
 }
 
-/* 隐藏菜单切换按钮（默认显示完整菜单） */
-.nav-toggle {
-    display: none;
-}
-
-/* 响应式：屏幕宽度小于768px时 */
 @media screen and (max-width: 768px) {
     .navbar {
-        flex-direction: column; /* 改为垂直排列 */
-        align-items: flex-start;
+        justify-content: space-around;
         padding: 10px;
     }
 
-    .nav-toggle {
-        display: block; /* 显示菜单切换按钮 */
-        margin: 10px;
-        font-size: 24px;
-        cursor: pointer;
-        color: white;
-    }
-
     .navbar a {
-        display: none; /* 默认隐藏菜单项 */
-        margin: 10px 0;
-        width: 100%; /* 占满宽度 */
-    }
-
-    .navbar a.active {
-        display: block; /* 展开时显示菜单项 */
+        margin: 5px;
+        font-size: 14px;
     }
 }
 
@@ -103,6 +83,7 @@ header-img: none
 
 </style>
 
+
 <div class="navbar">
     <a href="{{ site.baseurl }}/challenge/overview/">Overview</a>
     <a href="{{ site.baseurl }}/challenge/mdr-track1/">Track 1</a>
@@ -115,8 +96,6 @@ header-img: none
 <div class="image-container">
     <img src="{{ site.baseurl }}/img/challenge.png" alt="Challenge Image">
 </div>
-
-
 
 ## Motivation
 
