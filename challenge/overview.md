@@ -12,20 +12,20 @@ header-img: none
 .navbar {
     display: flex;
     justify-content: center;
-    background-color:rgb(193, 178, 178);
+    background-color:rgb(27, 32, 122);
     color:rgb(255,255,255);
-    padding: 10px 0;
+    padding: 5px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .navbar a {
     margin: 0 15px;
     text-decoration: none;
-    color: #333;
+    color: rgb(255,255,255);
     font-weight: bold;
     transition: color 0.3s, border-bottom 0.3s;
 }
@@ -75,7 +75,7 @@ header-img: none
     <a href="{{ site.baseurl }}/challenge/mmctr-track2/">Track 2</a>
     <a href="{{ site.baseurl }}/challenge/results/">Results</a>
     <a href="{{ site.baseurl }}/challenge/discussion/">Discussion</a>
-    <a href="{{ site.baseurl }}">Back to Workshop</a>
+    <a href="{{ site.baseurl }}">Return to Workshop Home</a>
 </div>
 
 <div class="image-container">
