@@ -12,20 +12,21 @@ header-img: none
 .navbar {
     display: flex;
     justify-content: center;
-    background-color:rgb(27, 32, 122);
-    color:rgb(255,255,255);
+    background-color: rgb(27, 32, 122);
+    color: rgb(255, 255, 255);
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
     margin-bottom: 2px;
+    flex-wrap: wrap; /* 允许换行 */
 }
 
 .navbar a {
     margin: 0 20px;
     text-decoration: none;
-    color: rgb(255,255,255);
+    color: rgb(255, 255, 255);
     font-weight: bold;
     transition: color 0.3s, border-bottom 0.3s;
 }
@@ -33,6 +34,38 @@ header-img: none
 .navbar a:hover {
     color: #007acc;
     border-bottom: 2px solid #007acc;
+}
+
+/* 隐藏菜单切换按钮（默认显示完整菜单） */
+.nav-toggle {
+    display: none;
+}
+
+/* 响应式：屏幕宽度小于768px时 */
+@media screen and (max-width: 768px) {
+    .navbar {
+        flex-direction: column; /* 改为垂直排列 */
+        align-items: flex-start;
+        padding: 10px;
+    }
+
+    .nav-toggle {
+        display: block; /* 显示菜单切换按钮 */
+        margin: 10px;
+        font-size: 24px;
+        cursor: pointer;
+        color: white;
+    }
+
+    .navbar a {
+        display: none; /* 默认隐藏菜单项 */
+        margin: 10px 0;
+        width: 100%; /* 占满宽度 */
+    }
+
+    .navbar a.active {
+        display: block; /* 展开时显示菜单项 */
+    }
 }
 
 /* 内容区域样式 */
@@ -109,12 +142,7 @@ These themes aim to foster innovation in:
 ---
 
 
-## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by </a>
-  <div class="organization">
-    <a href="https://gair-lab.github.io/" target="_blank">
-      <img src="{{ site.baseurl }}/img/organization/huawei-logo.png" alt="HUAWEI">
-    </a>
-  </div>
+## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by Huawei</a>
 
 
 <style>
