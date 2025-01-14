@@ -14,7 +14,7 @@ header-img: img/challenge.png
 
 /* 图片样式 */
 .header-img {
-    width: 80%;
+    width: 100%;
     height: auto;
     display: block;
     margin: 0 auto;
