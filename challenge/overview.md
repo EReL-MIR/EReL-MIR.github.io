@@ -12,7 +12,7 @@ header-img: none
 .navbar {
     display: flex;
     justify-content: center;
-    background-color: #f4f4f4;
+    background-color:rgb(193, 178, 178);
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
