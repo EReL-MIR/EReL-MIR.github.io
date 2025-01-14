@@ -9,15 +9,16 @@ title: MIR Challenge
 
 ## Motivation
 
+
 In recent years, the rapid advancement of multimodal large models and the increasing demand for sophisticated information retrieval systems have highlighted the importance of integrating diverse modalities into real-world applications. Multimodal Information Retrieval (MIR) aims to address challenges where textual, visual, and other content modalities coexist, pushing the boundaries of search, recommendation, and information processing capabilities. 
 
 To address these challenges, we have organized two major themes, each consisting of two tracks:
 
-1. **Multimodal Document Retrieval Track**:
+1. **[Multimodal Document Retrieval Track](#multimodal-document-retrieval-track)**:
    - **ViDoRe**: Vision Document Retrieval Benchmark.
    - **M2KR**: Open-Domain Vision Retrieval Benchmark.
 
-2. **MM-CTR Challenge**:
+2. **[MM-CTR Challenge](#mm-ctr-challenge)**:
    - **Multimodal Item Embedding**.
    - **Multimodal CTR Prediction**.
 
@@ -26,19 +27,19 @@ These themes aim to foster innovation in:
 - Exploring efficient representation learning methods tailored for multimodal content.
 - Encouraging solutions that bridge academic research and industrial practices in multimodal retrieval and recommendation.
 
+## <a name='multimodal-document-retrieval-track'> 1. Multimodal Document Retrieval Track </a>
 
+## Introduction
 
-## <a name='EReL@MIR Track'> 1. Multimodal Document Retrieval Track </a>
+Currently, the majority of retrieval-augmented generation (RAG) models are designed to retrieve relevant text documents based on user queries. However, in real-world scenarios, users often need to retrieve multimodal documents, including text, images, tables, and charts. This requires a more sophisticated retrieval system that can handle multimodal information and provide relevant documents or passages based on user queries. Retrieving multimodal documents will help AI chatbots, search engines, and other applications provide more accurate and relevant information to users. 
 
-### Introduction
+The **Multimodal Document Retrieval Task** focuses on modeling passages from multimodal documents or web pages, leveraging textual and multimodal information for embedding modeling. The ultimate goal is to retrieve the relevant multimodal document or passage based on the user's text or multimodal query. 
 
-Currently, the majority of retrieval-augmented generation (RAG) models are designed to retrieve relevant text documents based on user queries. However, in real-world scenarios, users often need to retrieve multimodal documents, including text, images, tables, and charts. This requires a more sophisticated retrieval system that can handle multimodal information and provide relevant documents or passages based on user queries. Retrieving multimodal documents will help AI chatbots, search engines, and other applications provide more accurate and relevant information to users.
+---
 
-The **Multimodal Document Retrieval Task** focuses on modeling passages from multimodal documents or web pages, leveraging textual and multimodal information for embedding modeling. The ultimate goal is to retrieve the relevant multimodal document or passage based on the user's text or multimodal query.
+## Tasks
 
-### Tasks
-
-#### Task 1: ViDoRe – Vision Document Retrieval Benchmark
+### Task 1: ViDoRe – Vision Document Retrieval Benchmark
 This task is designed to evaluate the ability of retrieval systems to identify visually-rich information within documents. It covers multiple topics, forms (graphics, tables, text), and languages, providing a robust benchmark for retrieval scenarios.
 
 **Datasets Include:**
@@ -48,51 +49,169 @@ This task is designed to evaluate the ability of retrieval systems to identify v
 - **arXiVQA**: Academic charts.
 - **TabFQuAD**: Tables.
 
-**Application Scenarios:** Industry reports from sectors such as energy, government/administration, healthcare, artificial intelligence, and environmental studies.
+**Application Scenarios:** Includes industry reports from sectors such as **energy, government/administration, healthcare, artificial intelligence, and environmental studies.**
 
-#### Task 2: M2KR – Open-Domain Vision Retrieval Benchmark
-This task evaluates the ability of retrieval systems to retrieve visually-rich information in open-domain scenarios, including Wikipedia web pages. It involves diverse topics, forms (graphics, tables, text), and languages. The dataset includes screenshots from Wikipedia pages and extracted text.
+In this challenge, private test subset will be used for evaluation. 
 
-### Evaluation and Metrics
-
-**Metrics:**
-- **Recall@k:** Measures the proportion of relevant documents retrieved in the top-k results. Average scores of recall@1, recall@5, and recall@10 will be computed.
+Reference: https://huggingface.co/vidore
 
 ---
 
-## <a name='WWW Challenge'> 2. MM-CTR Challenge </a>
+### Task 2: M2KR – Open-Domain Vision Retrieval Benchmark
+This task evaluates the ability of retrieval systems to retrieve visually-rich information in open-domain scenarios, including Wikipedia web pages. It involves diverse topics, forms (graphics, tables, text), and languages. The original M2KR dataset only include the extracted text from the Wikipedia pages. We have extended the dataset to include the screenshots from the Wikipedia pages.
 
-### Introduction
+**Subtasks:**
+- **Image → Wiki Document Search:** 
+  - **Datasets:** WIT, KVQA.
+- **Image+Text → Wiki Document Search:**
+  - **Datasets:** OVEN, OKVQA, Infoseek, E-VQA.
 
-With the development of multimodal large models and the popularity of content recommendation applications, multimodal recommendation has become one of the most prominent paradigms in the research community. To promote breakthroughs in this field, we organize a Multimodal CTR prediction (MM-CTR) Challenge at the WWW 2025 EReL@MIR workshop. The challenge consists of two sub-tasks:
+---
+In this challenge, privately reserved test subset will be used for evaluation. 
 
-1. **Multimodal Item Embedding**: Developing multimodal representation learning and fusion methods tailored for recommendation tasks.
-2. **Multimodal CTR Prediction**: Designing CTR prediction models that effectively utilize multimodal representations to enhance recommendation performance.
+Reference: https://preflmr.github.io/
 
-### Dataset Description
+## Evaluation
 
-We use the MicroLens dataset (specifically the MicroLens-1M version) released by Westlake University for the MM-CTR Challenge. This dataset contains 1M users and 9.1M user-item interaction records, with detailed item content features (e.g., titles, covers). Public data is provided for training, and private data for evaluation.
+Participants' submissions will be evaluated on their ability to accurately retrieve relevant multimodal documents or passages based on user queries. 
 
-### Tasks
+### Metrics:
+**Recall@k** Measures the proportion of relevant documents retrieved in the top-k results.
+We will be measuring the average score of recall@1, recall@5, and recall@10 for each tasks.
 
-#### Task 1: Multimodal Item Embedding
-Participants must design algorithms to extract multimodal embeddings for recommendation tasks. Extracted embeddings should be saved in a specified format and combined with ID features for downstream CTR model evaluation.
+### Ranking
+We will rank the participants by the average of the two tasks's recall scores. 
 
-#### Task 2: Multimodal CTR Prediction
-Participants will optimize the CTR model using embeddings provided by organizers. The designed CTR model must be trained in an end-to-end manner.
-
-### Evaluation and Rules
-
-**Metrics:** AUC will be used to evaluate performance. Submissions are ranked based on reproducible results from provided code.
+### Submition
+The private test set is released for each of the dataset. The participants will be required to upload the retrieved top10 `passage_id` for each test sample to Kaggle. The platform will automatically compute the score. 
 
 ---
 
-## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by </a>
-  <div class="organization">
-    <a href="https://gair-lab.github.io/" target="_blank">
-      <img src="../img/organization/huawei-logo.png" alt="HUAWEI">
-    </a>
-  </div>
+## Participation
+
+To participate in this challenge, researchers are required to:
+1. Develop multimodal retrieval systems capable of embedding modeling for multimodal queies and documents.
+2. Submit a single system's outputs for evaluation based on the datasets specified in each task.
+
+This track aims to push forward the boundaries of multimodal document retrieval, encouraging innovation in embedding modeling and search efficiency. Join us to contribute to the next-generation advancements in this exciting space!
+
+---
+
+## References
+1. Faysse, M., Sibille, H., Wu, T., Omrani, B., Viaud, G., Hudelot, C., & Colombo, P. (2024). ColPali: Efficient Document Retrieval with Vision Language Models (arXiv:2407.01449). arXiv. https://doi.org/10.48550/arXiv.2407.01449
+2. Lin, W., Mei, J., Chen, J., & Byrne, B. (2024). PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers (arXiv:2402.08327). arXiv. https://doi.org/10.48550/arXiv.2402.08327
+3. Lin, W., Chen, J., Mei, J., Coca, A., & Byrne, B. (2023). Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering (arXiv:2309.17133; Version 2). arXiv. https://doi.org/10.48550/arXiv.2309.17133
+
+
+---
+
+## <a name='mm-ctr-challenge'> 2. MM-CTR Challenge </a>
+
+
+With the development of multimodal large models and the popularity of content recommendation applications, multimodal recommendation has become one of the most prominent paradigms in the research community. To promote breakthroughs in this field, we organize a Multimodal CTR prediction (MM-CTR) Challenge at the WWW 2025 EReL@MIR workshop. To meet the low-latency requirements of online inference in industrial applications,  we have divided the MM-CTR Challenge into two sub-tasks: Multimodal Item Embedding and Multimodal CTR Prediction. The first task centers on developing multimodal representation learning and fusion methods tailored for recommendation tasks, while the second focuses on designing CTR prediction models that effectively utilize multimodal representations to enhance recommendation performance. Through in-depth exploration on these two tasks, we aim to broden the boundary of multimodal recommendation and providing solutions with practical value and insights for industrial recommendation systems.
+
+## Dataset Description
+
+We use the MicroLens dataset (specifically the MicroLens-1M version) released by Westlake University [1] for MM-CTR Challenge. This dataset contains 1M users and 9.1M user-item interaction records,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for evaluation, respectively. Data details will be announced later.
+
+![image-20250111120127858](C:\Users\z00644567\AppData\Roaming\Typora\typora-user-images\image-20250111120127858.png)
+
+
+
+## Task 1: Multimodal Item Embedding
+
+This challenge aims to explore multimodal item embedding extraction methods that enhancing recommendation tasks. The organizers will provide downstream CTR model and evaluation datasets to validate the effectiveness of proposed methods. Participants are free to use open-source multimodal models, and design algorithms to extract multimodal embeddings. Extracted embeddings must be saved in a specified format and combined with ID features as input for downstream CTR model evaluation.
+
+>  Task Input:
+
+* User historical interaction data
+* Item multimodal data (including attributes, title, cover)
+
+> Task Output:
+
+* Multimodal embedding features (dimension size: 128)
+
+### Evaluation
+
+Participants are required to use the provided CTR model to evaluate the effectiveness of the multimodal embeddings. Specifically, they should replace the embedding features in the CTR model's input with the features extracted in Task 1, retrain the model, evaluate its performance on the validation set, and predict pCTR on the test set for submission. In the preliminary round, participants only need to submit the pCTR prediction results. In the final round, participants must also submit reproducible training and inference code for the multimodal embeddings. The final leaderboard will be ranked based on reproducible submission results. The evaluation metric is AUC.
+
+### Constrain
+
++ Using any data outside the provided dataset is not allowed.
+
++ If large models are used to extract embeddings, only open-source versions are allowed.
+
+
+
+## Task 2: Multimodal CTR Prediction
+
+This challenge aims to explore what multimodal recommendation model can effectively leverage the multimodal embedding and achive better performance. The organizers will provide extracted multimodal embedding (from Task 1) and user interaction data splits. Participants can optimize and improve the multimodal recommendation model based on the provided baseline model to enhance the CTR prediction result. Finally, participants will submit the predicted pCTR on the test set for competition.
+
+>  Task Input:
+
+* User historical interaction data
+* All items' multimodal embedding
+
+> Task Output:
+
+* Predicted pCTR for test set samples
+
+### Evaluation
+
+Participants are required to use the multimodal embeddings provided by organizers  to evaluate the performance of the CTR model. Specifically, they should replace the provided basedline model with the customized CTR model designed in Task 2, train the model, evaluate its performance on the validation set, and predict pCTR on the test set for submission. In the preliminary round, participants only need to submit the pCTR prediction results. In the final round, participants must also submit reproducible training and inference code for the multimodal embeddings. The final leaderboard will be ranked based on reproducible submission results. The evaluation metric is AUC.
+
+### Constrain
+
++ Using pretrained large model is not allowed.
++ The designed CTR model must be trained in an end-to-end manner.
+
++ For practical application considerations, only neural network models are allowed; Ensemble methods are not allowed for training or testing.
+
+
+
+### ## Submission Type
+
+Participants can choose one submission types listed below to engage in the challenge. We encourage participants to take on both challenges (Task 1 & Task 2) to fully understand the end-to-end process of multimodal recommendation application and design better solutions, thereby earning more rewards.
+
+**Task 1 only**: In this setting, the CTR model is fixed, and the focus is on optimizing the embeddings. Participants are not allowed to modify the model code used to evaluate the embeddings, but can adjust specified hyperparameters.
+
+**Task 2 only**: In this setting, the embeddings are fixed, and the focus is on optimizing the CTR model. Participants are not allowed to change the input features, but can optimize the model structure and hyperparameters.
+
+**Task 1 & 2**: In this setting, both the embeddings and the CTR model are optimized simultaneously. Participants can modify both the embeddings and the CTR model, but no additional features are allowed.
+
+The challenge organizers will reproduce results based on the team's submitted code and reproducibility guidelines, and the results will be publicly announced on the official website.
+
+### Timeline
+
+Task Submission Start: Jan. 22nd, 2025
+
+Code Submission Start: Mar. 
+
+Final Submission End: 
+
+### Awards
+
+Participants are required to submit their source code for model reproduction and final award competation. The review panel will reproduce results based on the leaderboard rankings, from highest to lowest. The top three teams in the reproduced results will be awarded as the 1st, 2nd, and 3rd place teams. Additionally, an Embedding Winner and a Model Winner will be selected for Task-1 and Task-2, respectively. If results cannot be reproduced or a team wins multiple awards, the prize will be passed to the next team.
+
++ 1st Team: 1500 USD
++ 2nd Team: 1000 USD
++ 3rd Team: 500 USD
++ Task-1 Embedding Winner: 500 USD
++ Task-2 Model Winner: 500 USD
++ Travel Award: 1000 USD (awarded to the team selected by the challenge committee)
+
+### Rules
+
+1. Awarded teams must comply with relevant open-source licenses and release their competition solutions.
+2. Awarded teams are required to present their solutions either on-site at the workshop or online.
+
+
+
+### Reference
+
+[1] Yongxin Ni, Yu Cheng, Xiangyan Liu, Junchen Fu, Youhua Li, Xiangnan He, Yongfeng Zhang, Fajie Yuan, A Content-Driven Micro-Video Recommendation Dataset at Scale, Arxiv 2023.
+
+
 
   <a href="../">Link To Back</a>
   
