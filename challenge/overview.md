@@ -14,16 +14,16 @@ header-img: none
     justify-content: center;
     background-color:rgb(27, 32, 122);
     color:rgb(255,255,255);
-    padding: 2px 0;
+    padding: 0 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
-    margin-bottom: 5px;
+    margin-bottom: 2px;
 }
 
 .navbar a {
-    margin: 0 5px;
+    margin: 0 20px;
     text-decoration: none;
     color: rgb(255,255,255);
     font-weight: bold;
