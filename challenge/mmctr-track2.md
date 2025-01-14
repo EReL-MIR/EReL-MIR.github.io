@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MIR Challenge Track2
+title: MIR Challenge
 header-img: none
 ---
 <style>
@@ -14,16 +14,16 @@ header-img: none
     justify-content: center;
     background-color:rgb(27, 32, 122);
     color:rgb(255,255,255);
-    padding: 5px 0;
+    padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
-    margin-bottom: 10px;
+    margin-bottom: 2px;
 }
 
 .navbar a {
-    margin: 0 15px;
+    margin: 0 20px;
     text-decoration: none;
     color: rgb(255,255,255);
     font-weight: bold;
@@ -82,7 +82,14 @@ header-img: none
     <img src="{{ site.baseurl }}/img/challenge.png" alt="Challenge Image">
 </div>
 
+
+<div style="text-align: center;">
+
 # MM-CTR Challenge
+
+</div>
+
+## Introduction
 
 With the development of multimodal large models and the popularity of content recommendation applications, multimodal recommendation has become one of the most prominent paradigms in the research community. To promote breakthroughs in this field, we organize a Multimodal CTR prediction (MM-CTR) Challenge at the WWW 2025 EReL@MIR workshop. To meet the low-latency requirements of online inference in industrial applications,  we have divided the MM-CTR Challenge into two sub-tasks: Multimodal Item Embedding and Multimodal CTR Prediction. The first task centers on developing multimodal representation learning and fusion methods tailored for recommendation tasks, while the second focuses on designing CTR prediction models that effectively utilize multimodal representations to enhance recommendation performance. Through in-depth exploration on these two tasks, we aim to broden the boundary of multimodal recommendation and providing solutions with practical value and insights for industrial recommendation systems.
 

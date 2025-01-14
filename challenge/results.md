@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MIR Challenge Results
+title: MIR Challenge
 header-img: none
 ---
 <style>
@@ -14,16 +14,16 @@ header-img: none
     justify-content: center;
     background-color:rgb(27, 32, 122);
     color:rgb(255,255,255);
-    padding: 5px 0;
+    padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
-    margin-bottom: 10px;
+    margin-bottom: 2px;
 }
 
 .navbar a {
-    margin: 0 15px;
+    margin: 0 20px;
     text-decoration: none;
     color: rgb(255,255,255);
     font-weight: bold;
