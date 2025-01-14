@@ -1,42 +1,31 @@
 ---
 layout: page
-title: MIR Challenge
-header-img: img/challenge.png
+title: MIR Challenge Results
+header-img: none
 ---
 <style>
-/* 容器样式 */
-.intro-header {
-    width: 70%;
-    margin: 0 auto;
-    padding: 0;
-    background-color: white; /* 设置背景颜色为白色 */
-}
-
-/* 图片样式 */
-.header-img {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+  .intro-header {
+    display: none;
 }
 
 /* 导航栏样式 */
 .navbar {
     display: flex;
     justify-content: center;
-    background-color: #f4f4f4;
-    padding: 10px 0;
+    background-color:rgb(27, 32, 122);
+    color:rgb(255,255,255);
+    padding: 5px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .navbar a {
     margin: 0 15px;
     text-decoration: none;
-    color: #333;
+    color: rgb(255,255,255);
     font-weight: bold;
     transition: color 0.3s, border-bottom 0.3s;
 }
@@ -61,6 +50,22 @@ header-img: img/challenge.png
         opacity: 1;
     }
     }
+.image-container {
+    width: 70%; /* 图片容器宽度 */
+    margin: 0px auto; /* 居中 */
+    text-align: center; /* 文本居中 */
+    background-color:rgb(255, 255, 255); /* 背景颜色（可选） */
+    padding: 0px; /* 容器内边距 */
+    border-radius: 8px; /* 圆角边框 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
+}
+
+/* 图片样式 */
+.image-container img {
+    width: 100%; /* 图片宽度 */
+    height: auto; /* 等比例缩放 */
+    border-radius: 4px; /* 图片圆角（可选） */
+}
 
 </style>
 
@@ -70,5 +75,9 @@ header-img: img/challenge.png
     <a href="{{ site.baseurl }}/challenge/mmctr-track2/">Track 2</a>
     <a href="{{ site.baseurl }}/challenge/results/">Results</a>
     <a href="{{ site.baseurl }}/challenge/discussion/">Discussion</a>
-    <a href="{{ site.baseurl }}">Back to Workshop</a>
+    <a href="{{ site.baseurl }}">Return to Workshop Home</a>
+</div>
+
+<div class="image-container">
+    <img src="{{ site.baseurl }}/img/challenge.png" alt="Challenge Image">
 </div>
