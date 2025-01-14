@@ -67,6 +67,10 @@ header-img: none
     border-radius: 4px; /* 图片圆角（可选） */
 }
 
+h1 {
+            color: #00008b; /* 深蓝色 */
+        }
+
 </style>
 
 <div class="navbar">
@@ -85,7 +89,11 @@ header-img: none
 
 <div style="text-align: center;">
 
-# MM-CTR Challenge
+<div style="text-align: center;">
+
+<h1> MM-CTR Challenge</h1>
+
+</div>
 
 </div>
 

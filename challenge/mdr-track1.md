@@ -66,7 +66,9 @@ header-img: none
     height: auto; /* 等比例缩放 */
     border-radius: 4px; /* 图片圆角（可选） */
 }
-
+h1 {
+            color: #00008b; /* 深蓝色 */
+        }
 </style>
 
 <div class="navbar">
@@ -84,7 +86,7 @@ header-img: none
 
 <div style="text-align: center;">
 
-<h1> MM-CTR Challenge</h1>
+<h1> Multimodal Document Retrieval Track Challenge</h1>
 
 </div>
 
