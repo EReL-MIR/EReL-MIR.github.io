@@ -3,7 +3,7 @@ layout: page
 title: MIR Challenge
 ---
 
-<h1 style="text-align: center; font-size: 28px; color: inherit; line-height: 1.5;">
+<h1 style="text-align: center; font-size: 35px; color: inherit; line-height: 1.5;">
     Multimodal Information Retrieval Challenge for The 1<sup>st</sup> EReL@MIR Workshop
 </h1>
 
