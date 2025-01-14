@@ -84,7 +84,7 @@ header-img: none
 
 <div style="text-align: center;">
 
-# MM-CTR Challenge
+<h1> MM-CTR Challenge</h1>
 
 </div>
 
