@@ -13,6 +13,7 @@ header-img: none
     display: flex;
     justify-content: center;
     background-color:rgb(193, 178, 178);
+    color:rgb(255,255,255);
     padding: 10px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     position: sticky;
@@ -50,7 +51,7 @@ header-img: none
     }
     }
 .image-container {
-    width: 100%; /* 图片容器宽度 */
+    width: 70%; /* 图片容器宽度 */
     margin: 0px auto; /* 居中 */
     text-align: center; /* 文本居中 */
     background-color:rgb(255, 255, 255); /* 背景颜色（可选） */
