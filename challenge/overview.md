@@ -50,7 +50,7 @@ header-img: none
     }
     }
 .image-container {
-    width: 70%; /* 图片容器宽度 */
+    width: 100%; /* 图片容器宽度 */
     margin: 0px auto; /* 居中 */
     text-align: center; /* 文本居中 */
     background-color: #f9f9f9; /* 背景颜色（可选） */
