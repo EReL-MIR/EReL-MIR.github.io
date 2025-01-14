@@ -7,7 +7,7 @@ header-img: img/challenge.png
 /* 容器样式 */
 .intro-header {
     width: 75%;
-    margin: 0;
+    margin: 0 auto;
     padding: 0;
     /* 移除了固定高度 */
 }
@@ -17,6 +17,7 @@ header-img: img/challenge.png
     width: 75%;
     height: auto;
     display: block;
+    margin: 0 auto;
 }
 </style>
 
