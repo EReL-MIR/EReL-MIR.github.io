@@ -76,7 +76,7 @@ header-img: none
     <a href="{{ site.baseurl }}/challenge/mmctr-track2/">Track 2</a>
     <a href="{{ site.baseurl }}/challenge/results/">Results</a>
     <a href="{{ site.baseurl }}/challenge/discussion/">Discussion</a>
-    <a href="{{ site.baseurl }}">Return to Workshop Home</a>
+    <a href="{{ site.baseurl }}/index/">Return to Workshop Home</a>
 </div>
 
 <div class="image-container">
@@ -112,7 +112,7 @@ These themes aim to foster innovation in:
 ## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by </a>
   <div class="organization">
     <a href="https://gair-lab.github.io/" target="_blank">
-      <img src="../img/organization/huawei-logo.png" alt="HUAWEI">
+      <img src="{{ site.baseurl }}/img/organization/huawei-logo.png" alt="HUAWEI">
     </a>
   </div>
 

@@ -82,5 +82,6 @@ header-img: none
     <img src="{{ site.baseurl }}/img/challenge.png" alt="Challenge Image">
 </div>
 
-
-## TBA
+<div style="text-align: center;">
+<h1>TBA</h1>
+</div>
