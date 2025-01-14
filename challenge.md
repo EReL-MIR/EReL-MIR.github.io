@@ -114,10 +114,6 @@ With the development of multimodal large models and the popularity of content re
 
 We use the MicroLens dataset (specifically the MicroLens-1M version) released by Westlake University [1] for MM-CTR Challenge. This dataset contains 1M users and 9.1M user-item interaction records,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for evaluation, respectively. Data details will be announced later.
 
-![image-20250111120127858](C:\Users\z00644567\AppData\Roaming\Typora\typora-user-images\image-20250111120127858.png)
-
-
-
 ## Task 1: Multimodal Item Embedding
 
 This challenge aims to explore multimodal item embedding extraction methods that enhancing recommendation tasks. The organizers will provide downstream CTR model and evaluation datasets to validate the effectiveness of proposed methods. Participants are free to use open-source multimodal models, and design algorithms to extract multimodal embeddings. Extracted embeddings must be saved in a specified format and combined with ID features as input for downstream CTR model evaluation.
