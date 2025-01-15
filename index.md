@@ -18,7 +18,7 @@ Multimodal representation learning has garnered significant attention in the AI 
 
 To address these pressing issues, we propose organizing the first EReL@MIR workshop at the Web Conference 2025, inviting participants to explore novel solutions, emerging problems, challenges, efficiency evaluation metrics and benchmarks. This workshop aims to provide a platform for both academic and industry researchers to engage in discussions, share insights, and foster collaboration toward achieving efficient and effective representation learning for multimodal information retrieval in the era of large foundation models. 
 
-## <a name='Call for Challenge Submissions (New)' style="color: red; text-decoration: none;text-align: center;"> Call for Challenge Submissions </a> 
+## <a name='Call for Challenge Submissions' style="color: red; text-decoration: none;text-align: center;"> Call for Challenge Submissions  (New)</a> 
 
 
 We are excited to announce the MIR Challenge featuring two major themes: the Multimodal Document Retrieval Challenge and the MM-CTR Challenge, each with two tracks focused on advancing multimodal retrieval and recommendation systems. We warmly invite researchers and practitioners to participate and showcase innovative solutions in this rapidly evolving field. Details will be announced soon at the following link:
@@ -41,7 +41,7 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 <!-- All submissions of papers must be original and have not been published or accepted elsewhere or simultaneously submitted to another journal or conference.-->
  The review process of the submitted manuscripts will be done together with our program committee. The selection will depend on the technical soundness and relevance of submissions to the community that the workshop is targeting. At least one author of each accepted paper must attend the workshop on-site and present their work. Submissions must be anonymous and should be submitted electronically via EasyChair: <https://easychair.org/conferences/?conf=erelmir2025>.
 
-## WWW2025 Fast Track
+##  <a name='WWW2025 Fast Track' style="color: red; text-decoration: none;text-align: center;"> WWW2025 Fast Track (new) </a> 
   <span style="color:red"><b>WWW2025 Fast Track</b></span> - <b>Papers rejected and/or withdrawn from WWW 2025 that wish to be submitted to EReL@MIR can use the same submission link. These submissions should include the review comments in an appendix. Such papers will bypass the peer-review process, with acceptance decisions made directly by the meta-reviewers.</b> 
   
   In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
