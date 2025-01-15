@@ -105,7 +105,7 @@ In recent years, the rapid advancement of multimodal large models and the increa
 To address these challenges, we have organized two major themes, each consisting of two tracks:
 
 1. **Multimodal Document Retrieval Challenge Track**:
-   - **ViDoRe**: Vision Document Retrieval Benchmark.
+   - **MMDocIR**: Vision Document Retrieval Benchmark.
    - **M2KR**: Open-Domain Vision Retrieval Benchmark.
 
 2. **MM-CTR Challenge Track**:
