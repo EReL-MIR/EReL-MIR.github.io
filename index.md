@@ -21,7 +21,8 @@ To address these pressing issues, we propose organizing the first EReL@MIR works
 ## <a name='Call for Challenge Submissions' style="color: inherit; text-decoration: none;text-align: center;"> Call for Challenge Submissions  (TBA)</a> 
 
 
-We are excited to announce the MIR Challenge featuring two major themes: the Multimodal Document Retrieval Challenge and the MM-CTR Challenge, each with two tracks focused on advancing multimodal retrieval and recommendation systems. We warmly invite researchers and practitioners to participate and showcase innovative solutions in this rapidly evolving field. Details will be announced soon at the following link:
+We are excited to announce the MIR Challenge featuring two major themes: the Multimodal Document Retrieval Challenge and the MM-CTR Challenge, each with two tracks focused on advancing multimodal retrieval and recommendation systems. We warmly invite researchers and practitioners to participate and showcase innovative solutions in this rapidly evolving field. Details will be announced soon at the following pages:
+<br>
 <a href="challenge/overview/">Challenge</a>
 
 
