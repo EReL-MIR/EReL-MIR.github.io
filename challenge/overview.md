@@ -259,9 +259,6 @@ These themes aim to foster innovation in:
 </style>
 
 
-## <a name='Organization' style="color: inherit; text-decoration: none;"> Sponsored by </a>
-Huawei
-
 
 <style>
 .organization-container {
