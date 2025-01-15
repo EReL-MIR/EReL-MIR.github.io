@@ -166,14 +166,14 @@ These themes aim to foster innovation in:
   <!-- 第二行 (3 人) -->
   <div class="organizer">
     <a href="" target="_blank">
-      <img src="" alt="Jiabing Yan">
+      <img src="{{ site.baseurl }}/img/organizers/blank_people.jpg" alt="Jiabing Yan">
       <p><b>Jiabing Yan</b><br>Huawei</p>
     </a>
   </div>
   
   <div class="organizer">
     <a href="https://scholar.google.com/citations?user=OFiUwwEAAAAJ&hl=en" target="_blank">
-      <img src="{{ site.baseurl }}/img/organizers/kuicai.jpg" alt="Kuicai Dong">
+      <img src="{{ site.baseurl }}/img/organizers/kuicai2.jpg" alt="Kuicai Dong">
       <p><b>Kuicai Dong</b><br>Huawei Noah's Ark Lab</p>
     </a>
   </div>
