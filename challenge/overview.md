@@ -126,8 +126,8 @@ These themes aim to foster innovation in:
   <!-- 第一行 (5 人) -->
     <div class="organizer">
     <a href="https://xurige1995.github.io/" target="_blank">
-      <img src="img/organizers/gexuri2.png" alt="Xuri Ge">
-      <p><b>Xuri Ge</b><br>Shandong University<br>University of Glasgow</p>
+      <img src="{{ site.baseurl }}/img/organizers/gexuri2.png" alt="Xuri Ge">
+      <p><b>Xuri Ge</b><br>Shandong University</p>
     </a>
   </div>
 
@@ -135,7 +135,7 @@ These themes aim to foster innovation in:
 
   <div class="organizer">
     <a href="https://junchen-fu.github.io/" target="_blank">
-      <img src="img/organizers/junchen-fu.jpg" alt="Junchen Fu">
+      <img src="{{ site.baseurl }}/img/organizers/junchen-fu.jpg" alt="Junchen Fu">
       <p><b>Junchen Fu</b><br>University of Glasgow</p>
     </a>
   </div>
@@ -143,45 +143,45 @@ These themes aim to foster innovation in:
 
   
   <div class="organizer">
-    <a href="https://xinxin-me.github.io/" target="_blank">
-      <img src="img/organizers/xinxin.png" alt="Xin Xin">
-      <p><b>Xin Xin</b><br>Shandong University</p>
+    <a href="https://jingbiao.me/about/?lang=en" target="_blank">
+      <img src="{{ site.baseurl }}/img/organizers/jingbiao.jpg" alt="Jingbiao Mei">
+      <p><b>Jingbiao Mei</b><br>University of Cambridge</p>
     </a>
   </div>
   
   <div class="organizer">
-    <a href="https://ii-research-yu.github.io/" target="_blank">
-      <img src="img/organizers/haitao-yu.png" alt="Haitao Yu">
-      <p><b>Haitao Yu</b><br>University of Tsukuba</p>
+    <a href="https://fajieyuan.github.io/" target="_blank">
+      <img src="{{ site.baseurl }}/img/organizers/fajie.jpg" alt="Fajie Yuan">
+      <p><b>Fajie Yuan</b><br>Westlake University</p>
     </a>
   </div>
   
   <div class="organizer">
-    <a href="https://fengyue-leah.github.io/" target="_blank">
-      <img src="img/organizers/fengyue.jpg" alt="Yue Feng">
-      <p><b>Yue Feng</b><br>University of Birmingham</p>
+    <a href="http://jiemingzhu.github.io/" target="_blank">
+      <img src="{{ site.baseurl }}/img/organizers/jmzhu.jpg" alt="Jieming Zhu">
+      <p><b>Jieming Zhu</b><br>Huawei Noah's Ark Lab</p>
     </a>
   </div>
 
   <!-- 第二行 (3 人) -->
   <div class="organizer">
-    <a href="https://alexiskz.wordpress.com/" target="_blank">
-      <img src="img/organizers/alex.png" alt="Alexandros Karatzoglou">
-      <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
+    <a href="" target="_blank">
+      <img src="" alt="Jiabing Yan">
+      <p><b>Jiabing Yan</b><br>Huawei</p>
     </a>
   </div>
   
   <div class="organizer">
-    <a href="https://iarapakis.github.io/" target="_blank">
-      <img src="img/organizers/ioannis2.png" alt="Ioannis Arapakis">
-      <p><b>Ioannis Arapakis</b><br>Telefónica Scientific Research</p>
+    <a href="https://scholar.google.com/citations?user=OFiUwwEAAAAJ&hl=en" target="_blank">
+      <img src="{{ site.baseurl }}/img/organizers/kuicai.jpg" alt="Kuicai Dong">
+      <p><b>Kuicai Dong</b><br>Huawei Noah's Ark Lab</p>
     </a>
   </div>
   
   <div class="organizer">
-    <a href="https://www.dcs.gla.ac.uk/~jj/" target="_blank">
-      <img src="img/organizers/joemon.png" alt="Joemon M. Jose">
-      <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
+    <a href="https://scholar.google.com/citations?user=YYnrPzEAAAAJ&hl=zh-CN&oi=ao" target="_blank">
+      <img src="{{ site.baseurl }}/img/organizers/zhaocheng.jpg" alt="Zhaocheng Du">
+      <p><b>Zhaocheng Du</b><br>Huawei Noah's Ark Lab</p>
     </a>
   </div>
 </div>
