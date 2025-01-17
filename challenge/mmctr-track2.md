@@ -63,6 +63,22 @@ header-img: none
         opacity: 1;
     }
     }
+.image-container-main {
+    width: 70%; /* 图片容器宽度 */
+    margin: 0px auto; /* 居中 */
+    text-align: center; /* 文本居中 */
+    background-color:rgb(255, 255, 255); /* 背景颜色（可选） */
+    padding: 0px; /* 容器内边距 */
+    border-radius: 8px; /* 圆角边框 */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 轻微阴影效果 */
+}
+
+/* 图片样式 */
+.image-container-main img {
+    width: 100%; /* 图片宽度 */
+    height: auto; /* 等比例缩放 */
+    border-radius: 4px; /* 图片圆角（可选） */
+}
 .image-container {
     width: 60%; /* 图片容器宽度 */
     margin: 0px auto; /* 居中 */
@@ -95,7 +111,7 @@ h1 {
     <a href="{{ site.baseurl }}/">Return to Workshop Home</a>
 </div>
 
-<div class="image-container">
+<div class="image-container-main">
     <img src="{{ site.baseurl }}/img/challenge.png" alt="Challenge Image">
 </div>
 
