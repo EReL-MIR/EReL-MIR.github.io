@@ -121,7 +121,7 @@ With the development of multimodal large models and the popularity of content re
 We use the MicroLens dataset (specifically the MicroLens-1M version) released by Westlake University [1] for MM-CTR Challenge. This dataset contains 1M users and 9.1M user-item interaction records,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for evaluation, respectively. Data details will be announced later.
 
 <div class="image-container">
-    <img src="{{ site.baseurl }}/img/track2/dataset.jpg" alt="dataset">
+    <img src="{{ site.baseurl }}/img/track2/microlens.jpg" alt="dataset">
 </div>
 
 ## Task 1: Multimodal Item Embedding
