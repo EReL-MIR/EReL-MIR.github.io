@@ -104,7 +104,7 @@ h1 {
 
 <div style="text-align: center;">
 
-<h1> MM-CTR Challenge Track</h1>
+<h1> Multimodal CTR Prediction Challenge Track</h1>
 
 </div>
 

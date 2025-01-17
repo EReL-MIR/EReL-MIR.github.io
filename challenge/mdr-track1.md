@@ -99,7 +99,7 @@ h1 {
 
 <div style="text-align: center;">
 
-<h1> Multimodal Document Retrieval Track Challenge</h1>
+<h1> Multimodal Document Retrieval Challenge Track</h1>
 
 </div>
 
