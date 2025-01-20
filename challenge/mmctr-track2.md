@@ -213,7 +213,7 @@ The challenge organizers will reproduce results based on the team's submitted co
 
 ### Timeline
 
-Task Submission Start: Jan. 22nd, 2025
+Task Submission Start: Jan. 24th, 2025
 
 Code Submission Start: Mar. 7th, 2025
 
@@ -230,7 +230,7 @@ Participants are required to submit their source code for model reproduction and
 + 3rd Team: 500 USD
 + Task-1 Embedding Winner: 500 USD
 + Task-2 Model Winner: 500 USD
-+ Travel Award: 1000 USD (awarded to the team selected by the challenge committee)
++ Travel Award: 1000 USD (awarded to the team selected by the challenge committee given oral presentation on the workshop)
 
 ### Rules
 
