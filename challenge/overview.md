@@ -108,7 +108,7 @@ To address these challenges, we have organized two major themes, each consisting
    - **MMDocIR**: Multi-Modal Retrieval for Long Documents.
    - **M2KR**: Open-Domain Vision Retrieval Benchmark.
 
-2. **MM-CTR Challenge Track**:
+2. **Multimodal CTR Prediction Challenge Track**:
    - **Multimodal Item Embedding**.
    - **Multimodal CTR Prediction**.
 
