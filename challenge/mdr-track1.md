@@ -173,7 +173,7 @@ This track aims to push forward the boundaries of multimodal document retrieval,
 ---
 
 ## Timeline
-Task Submission Start: Jan. 22nd, 2025
+Task Submission Start: Jan. 24th, 2025
 
 Code Submission Start: Mar. 7th, 2025
 
@@ -212,8 +212,8 @@ Awarded Teams Release: Mar. 18th, 2025
 
 ## References
 1. Dong, K., Chang, Y., Deik Goh, X., Li, D., Tang, R., and Liu, Y. MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents (arXiv:2501.08828). arXiv. https://doi.org/10.48550/arXiv.2501.08828
-2. Lin, W., Mei, J., Chen, J., & Byrne, B. (2024). PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers (arXiv:2402.08327). arXiv. https://doi.org/10.48550/arXiv.2402.08327
-3. Lin, W., Chen, J., Mei, J., Coca, A., & Byrne, B. (2023). Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering (arXiv:2309.17133; Version 2). arXiv. https://doi.org/10.48550/arXiv.2309.17133
+2. Lin, W., Chen, J., Mei, J., Coca, A., & Byrne, B. (2023). Fine-grained Late-interaction Multi-modal Retrieval for Retrieval Augmented Visual Question Answering. Advances in Neural Information Processing Systems, 36, 22820–22840. 
+3. Lin, W., Mei, J., Chen, J., & Byrne, B. (2024). PreFLMR: Scaling Up Fine-Grained Late-Interaction Multi-modal Retrievers. In L.-W. Ku, A. Martins, & V. Srikumar (Eds.), Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 5294–5316). Association for Computational Linguistics. https://doi.org/10.18653/v1/2024.acl-long.289
 
 
 
