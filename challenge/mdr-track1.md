@@ -173,7 +173,7 @@ This track aims to push forward the boundaries of multimodal document retrieval,
 ---
 
 ## Timeline
-Task Submission Start: Jan. 22nd, 2025
+Task Submission Start: Jan. 24th, 2025
 
 Code Submission Start: Mar. 7th, 2025
 
