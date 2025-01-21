@@ -192,7 +192,6 @@ These themes aim to foster innovation in:
       <p><b>Yong Liu</b><br>Huawei Noah's Ark Lab</p>
     </a>
   </div>
-</div>
 
 <style>
 .organizers-container {
