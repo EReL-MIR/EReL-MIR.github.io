@@ -186,6 +186,14 @@ These themes aim to foster innovation in:
   </div>
 </div>
 
+  <div class="organizer">
+    <a href="https://stephenliu0423.github.io/" target="_blank">
+      <img src="{{ site.baseurl }}/img/organizers/zhaocheng.jpg" alt="Zhaocheng Du">
+      <p><b>Yong Liu</b><br>Huawei Noah's Ark Lab</p>
+    </a>
+  </div>
+</div>
+
 <style>
 .organizers-container {
   display: flex;
