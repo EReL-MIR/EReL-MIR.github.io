@@ -188,7 +188,7 @@ These themes aim to foster innovation in:
 
   <div class="organizer">
     <a href="https://stephenliu0423.github.io/" target="_blank">
-      <img src="{{ site.baseurl }}/img/organizers/zhaocheng.jpg" alt="Zhaocheng Du">
+      <img src="{{ site.baseurl }}/img/organizers/yongliu.png" alt="Yong Liu">
       <p><b>Yong Liu</b><br>Huawei Noah's Ark Lab</p>
     </a>
   </div>
