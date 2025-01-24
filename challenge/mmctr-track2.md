@@ -213,7 +213,7 @@ The challenge organizers will reproduce results based on the team's submitted co
 
 ### Timeline
 
-Task Submission Start: Jan. 24th, 2025
+Task Submission Start: Jan. 24th, 2025 (Delayed to Jan.26)
 
 Code Submission Start: Mar. 7th, 2025
 
