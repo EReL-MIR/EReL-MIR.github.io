@@ -130,9 +130,13 @@ h1 {
 
 With the development of multimodal large models and the popularity of content recommendation applications, multimodal recommendation has become one of the most prominent paradigms in the research community. To promote breakthroughs in this field, we organize a Multimodal Click-through Rate prediction (MM-CTR) Challenge at the WWW 2025 EReL@MIR workshop. To meet the low-latency requirements of online inference in industrial applications,  we have divided the MM-CTR Challenge into two sub-tasks: Multimodal Item Embedding and Multimodal CTR Prediction. The first task centers on developing multimodal representation learning and fusion methods tailored for recommendation tasks, while the second focuses on designing CTR prediction models that effectively utilize multimodal representations to enhance recommendation performance. Through in-depth exploration on these two tasks, we aim to broden the boundary of multimodal recommendation and providing solutions with practical value and insights for industrial recommendation systems.
 
+## Participating
+Please go to the challenge portal: https://www.codabench.org/competitions/5372/
+
+
 ## Dataset Description
 
-We use the MicroLens dataset (specifically the MicroLens-1M version) released by Westlake University [1] for MM-CTR Challenge. This dataset contains 1M users and 9.1M user-item interaction records,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for evaluation, respectively. Data details will be announced later.
+We use the MicroLens-1M dataset released by Westlake University [1] for the MM-CTR Challenge. This dataset contains 1M users and 91K items,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for testing, respectively.
 
 <div class="image-container">
     <img src="{{ site.baseurl }}/img/track2/microlens.png" alt="dataset">
@@ -142,7 +146,6 @@ We use the MicroLens dataset (specifically the MicroLens-1M version) released by
 <div class="image-container">
     <img src="{{ site.baseurl }}/img/track2/task1.jpg" alt="Task1">
 </div>
-
 
 This challenge aims to explore multimodal item embedding extraction methods that enhancing recommendation tasks. The organizers will provide downstream CTR model and evaluation datasets to validate the effectiveness of proposed methods. Participants are free to use open-source multimodal models, and design algorithms to extract multimodal embeddings. Extracted embeddings must be saved in a specified format and combined with ID features as input for downstream CTR model evaluation.
 
