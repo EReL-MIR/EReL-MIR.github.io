@@ -138,7 +138,7 @@ Please go to the challenge portal: [https://www.codabench.org/competitions/5372/
 
 We use the MicroLens-1M dataset released by Westlake University [1] for the MM-CTR Challenge. This dataset contains 1M users and 91K items,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for testing, respectively.
 
-Dataset download: https://recsys.westlake.edu.cn/MicroLens_1M_MMCTR/
+Dataset download: [https://recsys.westlake.edu.cn/MicroLens_1M_MMCTR/](https://recsys.westlake.edu.cn/MicroLens_1M_MMCTR/)
 
 <div class="image-container">
     <img src="{{ site.baseurl }}/img/track2/microlens.png" alt="dataset">
