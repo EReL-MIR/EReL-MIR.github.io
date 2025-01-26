@@ -111,6 +111,8 @@ Currently, the majority of retrieval-augmented generation (RAG) models are desig
 The **Multimodal Document Retrieval Task** focuses on modeling passages from multimodal documents or web pages, leveraging textual and multimodal information for embedding modeling. The ultimate goal is to retrieve the relevant multimodal document or passage based on the user's text or multimodal query. 
 
 ---
+## Participating
+Please go to the challenge portal: [https://www.kaggle.com/competitions/multimodal-document-retrieval-challenge](https://www.kaggle.com/competitions/multimodal-document-retrieval-challenge)
 
 ## Tasks
 
@@ -125,7 +127,7 @@ This task is designed to evaluate the ability of retrieval systems to identify v
 
 ---
 
-In this challenge, MMDocIR evaluation set (which is yet to publish) will be used for evaluation. 
+In this challenge, MMDocIR evaluation set will be used for evaluation. 
 
 Reference: https://huggingface.co/MMDocIR
 
