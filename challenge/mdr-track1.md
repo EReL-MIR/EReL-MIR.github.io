@@ -154,11 +154,11 @@ Participants need to use one unified model to perform retrieval on both Task1 an
 
 ### Metrics:
 **Recall@k** Measures the proportion of relevant documents retrieved in the top-k results.
-We will be measuring the average score of recall@1, recall@5, and recall@10 for each tasks.
+We will be measuring the average score of recall@1, recall@3, and recall@5 for each tasks. The final score will be based on the average of the two tasks.
 
 
 ### Submission
-The private test set is released for each of the dataset. The participants will be required to upload the retrieved top10 `passage_id` for each test sample to Kaggle. The platform will automatically compute the score. 
+The private test set is released for each of the dataset. The participants must upload the retrieved top5 `passage_id` for each test sample.
 
 ---
 
