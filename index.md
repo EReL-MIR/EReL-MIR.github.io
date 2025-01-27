@@ -18,10 +18,10 @@ Multimodal representation learning has garnered significant attention in the AI 
 
 To address these pressing issues, we propose organizing the first EReL@MIR workshop at the Web Conference 2025, inviting participants to explore novel solutions, emerging problems, challenges, efficiency evaluation metrics and benchmarks. This workshop aims to provide a platform for both academic and industry researchers to engage in discussions, share insights, and foster collaboration toward achieving efficient and effective representation learning for multimodal information retrieval in the era of large foundation models. 
 
-## <a name='Call for Challenge Submissions' style="color: inherit; text-decoration: none;text-align: center;"> Call for Challenge Submissions  (TBA)</a> 
+## <a name='Call for Challenge Submissions' style="color: inherit; text-decoration: none;text-align: center;"> Call for Challenge Submissions</a> 
 
 
-We are excited to announce the MIR Challenge featuring two major themes: the Multimodal Document Retrieval Challenge and the MM-CTR Challenge, each with two tracks focused on advancing multimodal retrieval and recommendation systems. We warmly invite researchers and practitioners to participate and showcase innovative solutions in this rapidly evolving field. Details will be announced soon at the following pages:
+We are excited to announce the MIR Challenge featuring two major themes: the Multimodal Document Retrieval Challenge and the MM-CTR Challenge, each with two tracks focused on advancing multimodal retrieval and recommendation systems. We warmly invite researchers and practitioners to participate and showcase innovative solutions in this rapidly evolving field. Details are announced at the following pages:
 <a href="challenge/overview/">MIR Challenge</a>
 
 
