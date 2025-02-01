@@ -60,7 +60,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 - Submission Deadline: ~~18 December, 2024~~ <span style="color:red;"><b>6 January, 2025</b></span>
 - <span style="color:red;"><b>WWW2025 Fast Track (new): 20 January, 2025 - 27 January, 2025</b></span> 
 - Acceptance Notification: ~~13 January, 2025~~ <span style="color:black;">27 January, 2025</span>
-- Camera-ready: ~~2 February, 2025~~ <span style="color:black;">7 February, 2025</span>
+- Camera-ready: ~~2 February, 2025~~ <span style="color:black;">6 February, 2025</span>
 - EReL@MIR Workshop: **28-29 April**
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
