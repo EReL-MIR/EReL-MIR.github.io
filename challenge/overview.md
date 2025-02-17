@@ -118,6 +118,10 @@ These themes aim to foster innovation in:
 - Encouraging solutions that bridge academic research and industrial practices in multimodal retrieval and recommendation.
 
 
+## Open Source License Requirement
+The final winning teams must open-source their code under either the <strong>MIT License</strong> or the <strong>Apache License 2.0</strong>.
+
+
 ---
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
