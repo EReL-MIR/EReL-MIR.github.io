@@ -210,6 +210,10 @@ Awarded Teams Release: Mar. 18th, 2025
 - Each team can submit 3 solutions every day.
 
 
+## Open Source License Requirement
+The final winning teams must open-source their code under either the <strong>MIT License</strong> or the <strong>Apache License 2.0</strong>.
+
+
 ---
 
 ## References

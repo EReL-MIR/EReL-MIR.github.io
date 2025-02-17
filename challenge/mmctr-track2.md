@@ -244,6 +244,11 @@ Participants are required to submit their source code for model reproduction and
 3. Each player should only take part in only one team. Cheating and plagiarism are not allowed.
 4. Each team can submit 3 solutions every day.
 
+
+## Open Source License Requirement
+The final winning teams must open-source their code under either the <strong>MIT License</strong> or the <strong>Apache License 2.0</strong>.
+
+
 ### Reference
 
 [1] Yongxin Ni, Yu Cheng, Xiangyan Liu, Junchen Fu, Youhua Li, Xiangnan He, Yongfeng Zhang, Fajie Yuan, A Content-Driven Micro-Video Recommendation Dataset at Scale, Arxiv 2023.
