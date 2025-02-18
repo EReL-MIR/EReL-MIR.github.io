@@ -186,7 +186,7 @@ Awarded Teams Release: Mar. 18th, 2025
 ---
 
 
-## Rewards
+## Awards
 
 - **Overall Ranking** based on average recall scores across two tasks:
    - 1st Place: 1500 USD
@@ -199,6 +199,8 @@ Awarded Teams Release: Mar. 18th, 2025
 - **Travel Grant**: 
   - One team will be selected by the Challenge Chairs to receive a Travel Grant of 1000 USD.
   - The rewarded team need to given oral presentation on the workshop.
+
+<strong>Note that all Awards are pre-tax amounts and include applicable taxes.</strong>
 
 ---
 

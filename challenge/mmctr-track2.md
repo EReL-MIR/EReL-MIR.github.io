@@ -237,6 +237,8 @@ Participants are required to submit their source code for model reproduction and
 + Task-2 Model Winner: 500 USD
 + Travel Award: 1000 USD (awarded to the team selected by the challenge committee given oral presentation on the workshop)
 
+<strong>Note that all rewards are pre-tax amounts and include applicable taxes.</strong>
+
 ### Rules
 
 1. Awarded teams must comply with relevant open-source licenses and release their competition solutions.
