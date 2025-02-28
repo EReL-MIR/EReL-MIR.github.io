@@ -177,11 +177,11 @@ This track aims to push forward the boundaries of multimodal document retrieval,
 ## Timeline
 Task Submission Start: Jan. 27th, 2025
 
-Code Submission Start: Mar. 7th, 2025
+Code Submission Start: Mar. 7th, 2025 (Delayed to Mar.15th)
 
-Final Submission End: Mar. 15th, 2025
+Final Submission End: Mar. 15th, 2025 (Delayed to Mar.22nd)
 
-Awarded Teams Release: Mar. 18th, 2025
+Awarded Teams Release: Mar. 18th, 2025 (Delayed to Mar.25th)
 
 ---
 
