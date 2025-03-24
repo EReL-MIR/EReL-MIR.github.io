@@ -86,7 +86,7 @@ header-img: none
     <a href="{{ site.baseurl }}/challenge/overview/">Overview</a>
     <a href="{{ site.baseurl }}/challenge/mdr-track1/">Track 1</a>
     <a href="{{ site.baseurl }}/challenge/mmctr-track2/">Track 2</a>
-    <a href="{{ site.baseurl }}/challenge/results/">Results</a>
+    <a href="{{ site.baseurl }}/challenge/results/">Winners</a>
     <a href="{{ site.baseurl }}/challenge/discussion/">Discussion</a>
     <a href="{{ site.baseurl }}/">Return to Workshop Home</a>
 </div>
