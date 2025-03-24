@@ -97,34 +97,41 @@ header-img: none
 
 
 <div style="text-align: center;">
-  <h1>Track 1 Result-Multimodal Document Retrieval Challenge Track</h1>
+  <h1>Track 1 Winners-Multimodal Document Retrieval Challenge Track</h1>
   <h2>TBA</h2>
   <br>
-  <h1>Track 2 Results-Multimodal CTR Prediction Challenge Track</h1>
+  <h1>Track 2 Winners-Multimodal CTR Prediction Challenge Track</h1>
   <table border="1" cellspacing="0" cellpadding="10" style="margin: 0 auto; border-collapse: collapse;">
     <tr style="background-color: #a8d08d;">
       <th>Rank/Award</th>
       <th>Team Name</th>
+      <th>Code Link</th>
     </tr>
     <tr>
       <td>1st Place</td>
       <td>momo</td>
+      <td>https://github.com/pinskyrobin/WWW2025_MMCTR</td>
     </tr>
     <tr>
       <td>2nd Place</td>
-      <td>jingz1802</td>
+      <td>DISCO.AHU</td>
+      <td>https://github.com/salmon1802/QIN</td>
     </tr>
     <tr>
       <td>3rd Place</td>
       <td>jzzx.NTU</td>
+      <td></td>
     </tr>
     <tr>
       <td>Task 1 Winner</td>
       <td>delorean</td>
+      <td></td>
     </tr>
     <tr>
       <td>Task 2 Winner</td>
       <td>zhou123</td>
+      <td>https://github.com/Lattice-zjj/MMCTR_Code</td>
     </tr>
   </table>
 </div>
+<h2>Upon receiving the open-source code from the winning teams, as demonstrated above, it will be made publicly available for a three-day review period. During this time, anyone who identifies potential misconduct—such as plagiarism or other unethical behavior—is encouraged to report it to the organizers via <a href="mailto:erelmir.workshop@gmail.com">erelmir.workshop@gmail.com</a>. Submissions that pass this public review will be officially confirmed as the final winners.</h2>
