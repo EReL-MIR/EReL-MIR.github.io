@@ -96,31 +96,31 @@ header-img: none
 </div>
 
 
-<div style=\"text-align: center;\">
+<div style="text-align: center;">
   <h1>Competition Results</h1>
-  <table border=\"1\" cellspacing=\"0\" cellpadding=\"10\" style=\"margin: 0 auto; border-collapse: collapse;\">
-    <tr style=\"background-color: #a8d08d;\">
-      <th>Rank</th>
+  <table border="1" cellspacing="0" cellpadding="10" style="margin: 0 auto; border-collapse: collapse;">
+    <tr style="background-color: #a8d08d;">
+      <th>Rank/Award</th>
       <th>Team Name</th>
     </tr>
     <tr>
-      <td>1st Team</td>
+      <td>1st Place</td>
       <td>momo</td>
     </tr>
     <tr>
-      <td>2nd Team</td>
+      <td>2nd Place</td>
       <td>jingz1802</td>
     </tr>
     <tr>
-      <td>3rd Team</td>
+      <td>3rd Place</td>
       <td>jzzx.NTU</td>
     </tr>
     <tr>
-      <td>Task-1 Winner</td>
+      <td>Task 1 Winner</td>
       <td>delorean</td>
     </tr>
     <tr>
-      <td>Task-2 Winner</td>
+      <td>Task 2 Winner</td>
       <td>zhou123</td>
     </tr>
   </table>
