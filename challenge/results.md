@@ -97,7 +97,7 @@ header-img: none
 
 
 <div style="text-align: center;">
-  <h2>Track 1 Winners-Multimodal Document Retrieval Challenge Track</h1>
+  <h2>Track 1 Winners-Multimodal Document Retrieval Challenge Track</h2>
   <h3>TBA</h3>
   <br>
   <h2>Track 2 Winners-Multimodal CTR Prediction Challenge Track</h2>
