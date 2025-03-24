@@ -135,4 +135,4 @@ header-img: none
     </tr>
   </table>
 </div>
-<h4>Upon receiving the open-source code from the winning teams, as demonstrated above, it will be made publicly available for a three-day review period. During this time, anyone who identifies potential misconduct—such as plagiarism or other unethical behavior—is encouraged to report it to the organizers via <a href="mailto:erelmir.workshop@gmail.com">erelmir.workshop@gmail.com</a>. Submissions that pass this public review will be officially confirmed as the final winners.</h4>
+<p>Upon receiving the open-source code from the winning teams, as demonstrated above, it will be made publicly available for a three-day review period. During this time, anyone who identifies potential misconduct—such as plagiarism or other unethical behavior—is encouraged to report it to the organizers via <a href="mailto:erelmir.workshop@gmail.com">erelmir.workshop@gmail.com</a>. Submissions that pass this public review will be officially confirmed as the final winners.</p>
