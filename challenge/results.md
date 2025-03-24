@@ -103,9 +103,9 @@ header-img: none
   <h1>Track 2 Winners-Multimodal CTR Prediction Challenge Track</h1>
   <table border="1" cellspacing="0" cellpadding="10" style="margin: 0 auto; border-collapse: collapse;">
     <tr style="background-color: #a8d08d;">
-      <th>Rank/Award</th>
-      <th>Team Name</th>
-      <th>Code Link</th>
+      <th style="text-align: center;">Rank/Award</th>
+      <th style="text-align: center;">Team Name</th>
+      <th style="text-align: center;">Code Link</th>
     </tr>
     <tr>
       <td>1st Place</td>
@@ -134,5 +134,6 @@ header-img: none
       <td><a href="https://github.com/Lattice-zjj/MMCTR_Code" target="_blank">https://github.com/Lattice-zjj/MMCTR_Code</a></td>
     </tr>
   </table>
-</div>
+
 <p>Upon receiving the open-source code from the winning teams, as demonstrated above, it will be made publicly available for a three-day review period. During this time, anyone who identifies potential misconduct—such as plagiarism or other unethical behavior—is encouraged to report it to the organizers via <a href="mailto:erelmir.workshop@gmail.com">erelmir.workshop@gmail.com</a>. Submissions that pass this public review will be officially confirmed as the final winners.</p>
+</div>
