@@ -121,7 +121,7 @@ header-img: none
     <tr>
       <td>3rd Place</td>
       <td>jzzx.NTU</td>
-      <td></td>
+      <td><a href="https://github.com/ZiaoGao/MMCTR" target="_blank">https://github.com/ZiaoGao/MMCTR</a></td>
     </tr>
     <tr>
       <td>Task 1 Winner</td>
