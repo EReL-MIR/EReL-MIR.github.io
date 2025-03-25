@@ -126,7 +126,7 @@ header-img: none
     <tr>
       <td>Task 1 Winner</td>
       <td>delorean</td>
-      <td></td>
+      <td><a href="https://github.com/AdamLTy/mmctr-solusion-by-delorean" target="_blank">https://github.com/AdamLTy/mmctr-solusion-by-delorean</a></td>
     </tr>
     <tr>
       <td>Task 2 Winner</td>
