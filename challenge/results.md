@@ -98,7 +98,29 @@ header-img: none
 
 <div style="text-align: center;">
   <h2>Track 1 Winners-Multimodal Document Retrieval Challenge Track</h2>
-  <h3>TBA</h3>
+  <table border="1" cellspacing="0" cellpadding="10" style="margin: 0 auto; border-collapse: collapse;">
+    <tr style="background-color: #a8d08d;">
+      <th style="text-align: center;">Rank/Award</th>
+      <th style="text-align: center;">Team Name</th>
+      <th style="text-align: center;">Code Link</th>
+    </tr>
+    <tr>
+      <td>1st Place</td>
+      <td>iLearn</td>
+      <td><a href="https://github.com/hbhalpha/MDR" target="_blank">https://github.com/hbhalpha/MDR</a>
+</td>
+    </tr>
+    <tr>
+      <td>2nd Place</td>
+      <td>LLMHunter</td>
+      <td><a href="https://github.com/i2vec/MMDocRetrievalChallenge" target="_blank">https://github.com/i2vec/MMDocRetrievalChallenge</a></td>
+    </tr>
+    <tr>
+      <td>3rd Place</td>
+      <td>GPU is all you need</td>
+      <td><a href="https://github.com/bargav25/MultiModal_InformationRetrieval" target="_blank">https://github.com/bargav25/MultiModal_InformationRetrieval</a></td>
+    </tr>
+  </table>
   <br>
   <h2>Track 2 Winners-Multimodal CTR Prediction Challenge Track</h2>
   <table border="1" cellspacing="0" cellpadding="10" style="margin: 0 auto; border-collapse: collapse;">
