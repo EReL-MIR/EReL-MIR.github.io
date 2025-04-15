@@ -65,7 +65,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
-  <h5>Paper Session (9:00 – 10:30)</h5>
+  <h5>Paper Session (9:00 – 10:30) Room C4.8</h5>
   Each paper presentation should include a 5-minute talk followed by a 2-minute Q&A session.
   <ul>
     <li>
@@ -95,7 +95,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
       <strong>Best Paper Award Ceremony</strong>
     </li>
   </ul>
-  <h5>Coffee Break (10:30 – 11:00)</h5>
+  <h5>Coffee Break (10:30 – 11:00) Room C4.8</h5>
   <h5>Challenge Session (11:00 – 12:30)</h5>
   Each team's presentation should include a 5-minute talk followed by a 2-minute Q&A session.
   <ul>
