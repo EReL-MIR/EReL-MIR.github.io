@@ -79,9 +79,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
     </li>
     <li>
       <span class="time">9:35 – 10:24</span><br>
-      <strong>Oral Presentations</strong><br>
-      Seven paper presentations, each consisting of a presentation and Q&A.<br>
-      <em>Order of Presentations:</em>
+      <em>Order of Oral Presentations:</em>
       <ul>
         <li>PLM-RS: Probabilistic Logical Reasoning for Enhancing Multi-modal Sequential Information in Recommender Systems</li>
         <li>Multi-modal Negative Sampling for Recommendation with User Interest</li>
