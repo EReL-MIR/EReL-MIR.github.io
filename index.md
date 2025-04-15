@@ -65,7 +65,61 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule </a>
-TBA
+  <h5>Paper Session (9:00 – 10:30)</h5>
+  Each paper presentation should include a 5-minute talk followed by a 2-minute Q&A session.
+  <ul>
+    <li>
+      <span class="time">9:00 – 9:05</span><br>
+      <strong>Opening Remarks</strong><br>
+      A brief introduction to the workshop agenda and session flow.
+    </li>
+    <li>
+      <span class="time">9:05 – 9:35</span><br>
+      <strong>Keynote 1 – Amit Jaspal (Meta)</strong>
+    </li>
+    <li>
+      <span class="time">9:35 – 10:24</span><br>
+      <strong>Oral Presentations</strong><br>
+      Seven paper presentations, each consisting of a presentation and Q&A.<br>
+      <em>Order of Presentations:</em>
+      <ul>
+        <li>PLM-RS: Probabilistic Logical Reasoning for Enhancing Multi-modal Sequential Information in Recommender Systems</li>
+        <li>Multi-modal Negative Sampling for Recommendation with User Interest</li>
+        <li>Diverse Knowledge Selection for Enhanced Zero-shot Visual Question Answering</li>
+        <li>Benchmarking Multi-Modal Retrieval for Long Documents</li>
+        <li>Multimodal Semantic Retrieval for Product Search</li>
+        <li>CubeRobot: Grounding Language in Rubik’s Cube Manipulation via Vision-Language Models</li>
+        <li>Image Fusion for Cross-Domain Sequential Recommendation</li>
+      </ul>
+    </li>
+    <li>
+      <span class="time">10:24 – 10:30</span><br>
+      <strong>Best Paper Award Ceremony</strong>
+    </li>
+  </ul>
+  <h5>Coffee Break (10:30 – 11:00)</h5>
+  <h5>Challenge Session (11:00 – 12:30)</h5>
+  Each team's presentation should include a 5-minute talk followed by a 2-minute Q&A session.
+  <ul>
+    <li>
+      <span class="time">11:00 – 11:30</span><br>
+      <strong>Keynote 2 – Jieming Zhou (Huawei)</strong>
+    </li>
+    <li>
+      <span class="time">11:30 – 11:48</span><br>
+      <strong>Task 1 Presentations</strong><br>
+      Order of Presentation Teams: iLearn (1st place), LLMHunter (2nd place), GPU is all you need (3rd place).
+    </li>
+    <li>
+      <span class="time">11:48 – 12:18</span><br>
+      <strong>Task 2 Presentations</strong><br>
+      Order of Presentation Teams: momo (1st place), DISCO.AHU (2nd place), jzzx.NTU (3rd place), delorean (Task 1 Winner), zhou123 (Task 2 Winner).
+    </li>
+    <li>
+      <span class="time">12:18 – 12:30</span><br>
+      <strong>Award Ceremony and Closing Remarks</strong>
+    </li>
+  </ul>
 
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
