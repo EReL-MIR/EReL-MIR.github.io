@@ -97,7 +97,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
   </ul>
   <h5>Coffee Break (10:30 – 11:00)</h5>
   <h5>Challenge Session (11:00 – 12:30) Room C4.8</h5>
-  Each team's presentation should include a 5-minute talk followed by a 2-minute Q&A session.
+  Each team's presentation should include a 4-minute talk followed by a 2-minute Q&A session.
   <ul>
     <li>
       <span class="time">11:00 – 11:30</span><br>
