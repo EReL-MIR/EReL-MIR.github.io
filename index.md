@@ -97,24 +97,23 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
   </ul>
   <h5>Coffee Break (10:30 – 11:00)</h5>
   <h5>Challenge Session (11:00 – 12:30) Room C4.8</h5>
-  Each team's presentation should include a 4-minute talk followed by a 2-minute Q&A session.
   <ul>
     <li>
       <span class="time">11:00 – 11:30</span><br>
       <strong>Keynote 2 – Jieming Zhu (Huawei)</strong>
     </li>
     <li>
-      <span class="time">11:30 – 11:48</span><br>
+      <span class="time">11:30 – 11:45</span><br>
       <strong>Task 1 Presentations</strong><br>
-      Order of Presentation Teams: iLearn (1st place), LLMHunter (2nd place), GPU is all you need (3rd place).
+      Order of Presentation Teams: TBA
     </li>
     <li>
-      <span class="time">11:48 – 12:18</span><br>
+      <span class="time">11:50 – 12:20</span><br>
       <strong>Task 2 Presentations</strong><br>
-      Order of Presentation Teams: momo (1st place), DISCO.AHU (2nd place), jzzx.NTU (3rd place), delorean (Task 1 Winner), zhou123 (Task 2 Winner).
+      Order of Presentation Teams: TBA
     </li>
     <li>
-      <span class="time">12:18 – 12:30</span><br>
+      <span class="time">12:20 – 12:30</span><br>
       <strong>Award Ceremony and Closing Remarks</strong>
     </li>
   </ul>
