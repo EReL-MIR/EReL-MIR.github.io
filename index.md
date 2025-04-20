@@ -101,7 +101,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
   <ul>
     <li>
       <span class="time">11:00 – 11:30</span><br>
-      <strong>Keynote 2 – Jieming Zhou (Huawei)</strong>
+      <strong>Keynote 2 – Jieming Zhu (Huawei)</strong>
     </li>
     <li>
       <span class="time">11:30 – 11:48</span><br>
