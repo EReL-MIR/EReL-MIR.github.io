@@ -104,12 +104,12 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
     </li>
     <li>
       <span class="time">11:30 – 11:45</span><br>
-      <strong>Task 1 Presentations</strong><br>
+      <strong>Track 1 Presentations</strong><br>
       Order of Presentation Teams: TBA
     </li>
     <li>
       <span class="time">11:50 – 12:20</span><br>
-      <strong>Task 2 Presentations</strong><br>
+      <strong>Track 2 Presentations</strong><br>
       Order of Presentation Teams: TBA
     </li>
     <li>
