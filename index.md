@@ -105,12 +105,12 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
     <li>
       <span class="time">11:30 – 11:45</span><br>
       <strong>Track 1 Presentations</strong><br>
-      Order of Presentation Teams: TBA
+      Order of Presentation Teams: iLearn
     </li>
     <li>
       <span class="time">11:50 – 12:20</span><br>
       <strong>Track 2 Presentations</strong><br>
-      Order of Presentation Teams: TBA
+      Order of Presentation Teams: momo, DISCO.AHU
     </li>
     <li>
       <span class="time">12:20 – 12:30</span><br>
