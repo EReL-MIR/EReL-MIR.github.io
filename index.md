@@ -133,7 +133,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
   <div class="organizer">
     <a href="https://xurige1995.github.io/" target="_blank">
       <img src="img/organizers/gexuri2.png" alt="Xuri Ge">
-      <p><b>Xuri Ge</b><br>Shandong University<br>University of Glasgow</p>
+      <p><b>Xuri Ge</b><br>Shandong University</p>
     </a>
   </div>
   
