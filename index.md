@@ -80,7 +80,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
     <li>
       <span class="time">9:35 – 10:24</span><br>
       <em>Order of Oral Presentations:</em>
-      <ul>
+      <ol>
         <li>PLM-RS: Probabilistic Logical Reasoning for Enhancing Multi-modal Sequential Information in Recommender Systems</li>
         <li>Multi-modal Negative Sampling for Recommendation with User Interest</li>
         <li>Diverse Knowledge Selection for Enhanced Zero-shot Visual Question Answering</li>
@@ -88,7 +88,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
         <li>Multimodal Semantic Retrieval for Product Search</li>
         <li>CubeRobot: Grounding Language in Rubik’s Cube Manipulation via Vision-Language Models</li>
         <li>Image Fusion for Cross-Domain Sequential Recommendation</li>
-      </ul>
+      </ol>
     </li>
     <li>
       <span class="time">10:24 – 10:30</span><br>
