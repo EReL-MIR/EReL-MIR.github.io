@@ -75,7 +75,7 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
     </li>
     <li>
       <span class="time">9:05 – 9:35</span><br>
-      <strong>Keynote 1 – Amit Jaspal (Meta)</strong>
+      <strong>Keynote 1 – Amit Jaspal (Meta) - Multimodal Information Retrieval for Recommender Systems: Recent Advances & Key Ideas</strong>
     </li>
     <li>
       <span class="time">9:35 – 10:24</span><br>
@@ -99,11 +99,15 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
   <h5>Challenge Session (11:00 – 12:30) Room C4.8</h5>
   <ul>
     <li>
-      <span class="time">11:00 – 11:30</span><br>
-      <strong>Keynote 2 – Jieming Zhu (Huawei)</strong>
+      <span class="time">11:00 – 11:05</span><br>
+      <strong>Opening Remarks</strong>
     </li>
     <li>
-      <span class="time">11:30 – 11:45</span><br>
+      <span class="time">11:05 – 11:35</span><br>
+      <strong>Keynote 2 – Jieming Zhu (Huawei) - From Representative to Generative: A Deep Dive into Multimodal IR Innovation at Huawei</strong>
+    </li>
+    <li>
+      <span class="time">11:35 – 11:50</span><br>
       <strong>Track 1 Presentations</strong><br>
       Order of Presentation Teams: iLearn
     </li>
