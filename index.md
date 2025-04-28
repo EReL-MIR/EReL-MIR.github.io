@@ -67,10 +67,13 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 
 
 ## Online Participation
-Zoom Link:
-https://us06web.zoom.us/j/83110556100?pwd=QUaB1Q6r6OIcbpVwZgJpU7lTabOHzb.1
-Meeting ID: 831 1055 6100
-Passcode: 391098
+  Zoom Link: 
+  <a href="https://us06web.zoom.us/j/83110556100?pwd=QUaB1Q6r6OIcbpVwZgJpU7lTabOHzb.1" target="_blank">
+    https://us06web.zoom.us/j/83110556100?pwd=QUaB1Q6r6OIcbpVwZgJpU7lTabOHzb.1
+  </a>
+  <br>
+  Meeting ID: 831 1055 6100 <br>
+  Passcode: 391098
 
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule (April 29th, 2025)</a>
