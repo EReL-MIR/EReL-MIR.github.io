@@ -35,6 +35,8 @@ We invite researchers to submit their latest work to the EReL@MIR Workshop on fu
 - Efficient MIR Foundation Models
 - Benchmarks and Metrics for Multimodal Representation Learning Efficiency
 
+
+
 ## Submission Guidelines
 Submissions of papers must be at least 4 pages and at most 8 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions of papers must be in English, in PDF format, in the current ACM two-column conference format. Suitable LaTeX, Word, and Overleaf templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the “sigconf” proceedings template for LaTeX and the Interim Template for Word).
 
@@ -55,7 +57,6 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 
 
 
-
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Submission Deadline: ~~18 December, 2024~~ <span style="color:red;"><b>6 January, 2025</b></span>
 - <span style="color:red;"><b>WWW2025 Fast Track (new): 20 January, 2025 - 27 January, 2025</b></span> 
@@ -63,6 +64,14 @@ Authors of accepted papers may choose whether to include their work in the WWW'2
 - Camera-ready: ~~2 February, 2025~~ <span style="color:black;">6 February, 2025</span>
 - EReL@MIR Workshop: **28-29 April**
 - Deadlines refer to 23:59 (11:59 pm) in the AoE (Anywhere on Earth) time zone.
+
+
+## Online Participation
+Zoom Link:
+https://us06web.zoom.us/j/83110556100?pwd=QUaB1Q6r6OIcbpVwZgJpU7lTabOHzb.1
+Meeting ID: 831 1055 6100
+Passcode: 391098
+
 
 ## <a name='Schedule' style="color: inherit; text-decoration: none; text-align: center;"> Schedule (April 29th, 2025)</a>
   <h5>Paper Session (9:00 – 10:30) Room C4.8</h5>
