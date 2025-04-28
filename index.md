@@ -101,7 +101,8 @@ Passcode: 391098
     </li>
     <li>
       <span class="time">10:24 – 10:30</span><br>
-      <strong>Best Paper Award Ceremony</strong>
+      <strong>Best Paper Award Ceremony</strong><br>
+      Image Fusion for Cross-Domain Sequential Recommendation
     </li>
   </ul>
   <h5>Coffee Break (10:30 – 11:00)</h5>
