@@ -53,36 +53,60 @@ The review process will be done with our program committee. Selection depends on
 - **Qian Li**, Beijing University of Posts and Telecommunications
 - **Joemon M. Jose**, University of Glasgow
 
-<div class="organizer-new-container">
-  <div class="organizer-new-card">
+<div class="organizer-grid">
+  <div class="organizer-card">
+    <img src="/img/organizers/junchen-fu.jpg" alt="Junchen Fu">
+    <p><b>Junchen Fu</b><br>University of Glasgow</p>
+  </div>
+  <div class="organizer-card">
+    <img src="/img/organizers/gexuri2.png" alt="Xuri Ge">
+    <p><b>Xuri Ge</b><br>Shandong University</p>
+  </div>
+  <div class="organizer-card">
+    <img src="/img/organizers/xinxin.png" alt="Xin Xin">
+    <p><b>Xin Xin</b><br>Shandong University</p>
+  </div>
+  <div class="organizer-card">
+    <img src="/img/organizers/alex.png" alt="Alexandros Karatzoglou">
+    <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
+  </div>
+  <div class="organizer-card">
+    <img src="/img/organizers/ioannis2.png" alt="Ioannis Arapakis">
+    <p><b>Ioannis Arapakis</b><br>Telefonica Scientific Research</p>
+  </div>
+  <div class="organizer-card">
     <img src="/img/organizers/xi-wang.jpg" alt="Xi Wang">
     <p><b>Xi Wang</b><br>University of Sheffield</p>
   </div>
-  <div class="organizer-new-card">
+  <div class="organizer-card">
     <img src="/img/organizers/qijiong-liu.jpg" alt="Qijiong Liu">
     <p><b>Qijiong Liu</b><br>The Hong Kong Polytechnic University</p>
   </div>
-  <div class="organizer-new-card">
+  <div class="organizer-card">
     <img src="/img/organizers/qian-li.jpg" alt="Qian Li">
     <p><b>Qian Li</b><br>Beijing University of Posts and Telecommunications</p>
+  </div>
+  <div class="organizer-card">
+    <img src="/img/organizers/joemon.png" alt="Joemon M. Jose">
+    <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
   </div>
 </div>
 
 <style>
-.organizer-new-container {
+.organizer-grid {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   margin-top: 24px;
 }
 
-.organizer-new-card {
+.organizer-card {
   flex: 1 1 220px;
   max-width: 260px;
   text-align: center;
 }
 
-.organizer-new-card img {
+.organizer-card img {
   width: 140px;
   height: 140px;
   object-fit: cover;
