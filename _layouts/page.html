@@ -66,30 +66,31 @@ layout: default
 .intro-header {
     width: 100%;
     margin: 0;
-    padding: 16px 0;
+    padding: 12px 0 0 0;
     background: #fff;
-    text-align: center;
     line-height: 0;
 }
 
-/* 图片样式：与正文内容列等宽（col-lg-10 offset-1 ≈ 83%) */
+/* 图片与 col-lg-10 col-lg-offset-1 对齐：左起 8.333%，宽 83.333% */
 .header-img {
+    display: block;
+    margin-left: 8.333%;
     width: 83.333%;
-    max-width: 1100px;
     height: auto;
-    display: inline-block;
 }
 
 @media (max-width: 992px) {
+    /* col-md-10 col-md-offset-1 同样 8.333% / 83.333% */
     .header-img {
-        width: 90%;
+        margin-left: 8.333%;
+        width: 83.333%;
     }
 }
 
 @media (max-width: 768px) {
     .header-img {
+        margin-left: 0;
         width: 100%;
-        padding: 0;
     }
 }
 </style>
