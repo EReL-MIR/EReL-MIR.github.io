@@ -67,14 +67,23 @@ layout: default
     width: 100%;
     margin: 0;
     padding: 0;
-    /* 移除了固定高度 */
+    background: #000;
+    text-align: center;
+    line-height: 0;
 }
 
 /* 图片样式 */
 .header-img {
-    width: 100%;
+    width: 90%;
+    max-width: 1100px;
     height: auto;
-    display: block;
+    display: inline-block;
+}
+
+@media (max-width: 768px) {
+    .header-img {
+        width: 100%;
+    }
 }
 </style>
 
