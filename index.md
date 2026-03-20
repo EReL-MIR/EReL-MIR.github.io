@@ -49,52 +49,61 @@ The review process will be done with our program committee. Selection depends on
 - Author Registration: **20-August**
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
-- **Junchen Fu**, University of Glasgow
-- **Xuri Ge**, Shandong University
-- **Xin Xin**, Shandong University
-- **Alexandros Karatzoglou**, Amazon
-- **Ioannis Arapakis**, Telefónica Scientific Research
-- **Xi Wang**, University of Sheffield
-- **Qijiong Liu**, The Hong Kong Polytechnic University
-- **Qian Li**, Beijing University of Posts and Telecommunications
-- **Joemon M. Jose**, University of Glasgow
 
 <div class="organizer-grid">
   <div class="organizer-card">
-    <img src="/img/organizers/junchen-fu.jpg" alt="Junchen Fu">
-    <p><b>Junchen Fu</b><br>University of Glasgow</p>
+    <a href="https://junchen-fu.github.io/" target="_blank">
+      <img src="/img/organizers/junchen-fu.jpg" alt="Junchen Fu">
+      <p><b>Junchen Fu</b><br>University of Glasgow</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/gexuri2.png" alt="Xuri Ge">
-    <p><b>Xuri Ge</b><br>Shandong University</p>
+    <a href="https://xurige1995.github.io/" target="_blank">
+      <img src="/img/organizers/gexuri2.png" alt="Xuri Ge">
+      <p><b>Xuri Ge</b><br>Shandong University</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/xinxin.png" alt="Xin Xin">
-    <p><b>Xin Xin</b><br>Shandong University</p>
+    <a href="https://xinxin-me.github.io/" target="_blank">
+      <img src="/img/organizers/xinxin.png" alt="Xin Xin">
+      <p><b>Xin Xin</b><br>Shandong University</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/alex.png" alt="Alexandros Karatzoglou">
-    <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
+    <a href="https://alexiskz.wordpress.com/" target="_blank">
+      <img src="/img/organizers/alex.png" alt="Alexandros Karatzoglou">
+      <p><b>Alexandros Karatzoglou</b><br>Amazon</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/ioannis2.png" alt="Ioannis Arapakis">
-    <p><b>Ioannis Arapakis</b><br>Telefonica Scientific Research</p>
+    <a href="https://iarapakis.github.io/" target="_blank">
+      <img src="/img/organizers/ioannis2.png" alt="Ioannis Arapakis">
+      <p><b>Ioannis Arapakis</b><br>Telefónica Scientific Research</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/xi-wang.jpg" alt="Xi Wang">
-    <p><b>Xi Wang</b><br>University of Sheffield</p>
+    <a href="https://www.xiwangeric.com/" target="_blank">
+      <img src="/img/organizers/xi-wang.jpg" alt="Xi Wang">
+      <p><b>Xi Wang</b><br>University of Sheffield</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/qijiong-liu.jpg" alt="Qijiong Liu">
-    <p><b>Qijiong Liu</b><br>The Hong Kong Polytechnic University</p>
+    <a href="https://liu.qijiong.work/" target="_blank">
+      <img src="/img/organizers/qijiong-liu.jpg" alt="Qijiong Liu">
+      <p><b>Qijiong Liu</b><br>The Hong Kong Polytechnic University</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/qian-li.jpg" alt="Qian Li">
-    <p><b>Qian Li</b><br>Beijing University of Posts and Telecommunications</p>
+    <a href="https://liqian-bio.github.io/" target="_blank">
+      <img src="/img/organizers/qian-li.jpg" alt="Qian Li">
+      <p><b>Qian Li</b><br>Beijing University of Posts and Telecommunications</p>
+    </a>
   </div>
   <div class="organizer-card">
-    <img src="/img/organizers/joemon.png" alt="Joemon M. Jose">
-    <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
+    <a href="https://www.dcs.gla.ac.uk/~jj/" target="_blank">
+      <img src="/img/organizers/joemon.png" alt="Joemon M. Jose">
+      <p><b>Joemon M. Jose</b><br>University of Glasgow</p>
+    </a>
   </div>
 </div>
 
@@ -117,6 +126,20 @@ The review process will be done with our program committee. Selection depends on
   height: 140px;
   object-fit: cover;
   border-radius: 50%;
+  transition: opacity 0.2s;
+}
+
+.organizer-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.organizer-card a:hover img {
+  opacity: 0.8;
+}
+
+.organizer-card a:hover p {
+  text-decoration: underline;
 }
 </style>
 
