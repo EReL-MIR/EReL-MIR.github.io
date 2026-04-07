@@ -154,6 +154,7 @@ The review process will be done with our program committee. Selection depends on
 - **Songpei Xu**, University of Glasgow
 - **Zheng Yuan**, The Hong Kong Polytechnic University
 - **Jiaqi Zhang**, University of Queensland
+- **Abhishek Dharmaratnakar**, Google
 
 ## <a name='Contact' style="color: inherit; text-decoration: none;"> Contact</a>
 If you have any questions about EReL@MIR, contact:
