@@ -24,6 +24,11 @@ Previous edition (2025) archive: [https://erel-mir.github.io/2025/](https://erel
 
 Conference homepage: [https://2026.acmmm.org/index.html](https://2026.acmmm.org/index.html)
 
+## Submission
+- **OpenReview submission:** TBA
+
+Workshop **submissions, peer review, and acceptance decisions** are handled **only through OpenReview** (mandatory). For accepted workshops, organizers set up an OpenReview venue under the ACM MM 2026 parent venue; a support document with guidelines will be shared with workshop organizers. The ACM MM 2026 organizers will provide workshop details to ACM for publication.
+
 ## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a>
 We invite researchers to submit their latest work on efficient multimodal representation learning for multimodal information retrieval (MIR). Topics include, but are not limited to:
 
@@ -40,7 +45,11 @@ We invite researchers to submit their latest work on efficient multimodal repres
 ## Submission Guidelines
 Submissions of papers must be at least 4 pages and at most 8 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions must be in English and in PDF format, using the ACM two-column conference format. Suitable templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
-The review process will be done with our program committee. Selection depends on technical soundness and relevance to the workshop community. At least one author of each accepted paper must attend the workshop on-site and present their work.
+**All accepted papers will be published as workshop proceedings in the ACM Digital Library.**
+
+Paper submission, review, and acceptance decisions must be carried out through **OpenReview** (mandatory), using a workshop venue configured under the ACM MM 2026 parent venue; organizers will receive a support document with further details.
+
+The review process will be conducted by our program committee. Selection depends on technical soundness and relevance to the workshop community. At least one author of each accepted paper must attend the workshop on-site and present their work.
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Contribution Submission: **16-July**
