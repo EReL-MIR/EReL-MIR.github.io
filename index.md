@@ -18,16 +18,18 @@ Despite these gains, deploying large multimodal models in real-world MIR pipelin
 
 Two emerging shifts have further expanded the MIR design space and sharpened the urgency of efficiency research. First, **omni-modal models** unify a broader set of modalities (text, image, audio, video) within a single framework, enabling richer interactions but exacerbating computational and serving constraints: their larger scale and prompt-dependent representations make embedding pre-computation and caching difficult. Second, **generative MIR** approaches that generate identifiers or structured candidates introduce new efficiency and reliability challenges, including decoding-time latency, output validity and controllability, and tokenization complexity.
 
-We therefore propose the 2nd EReL@MIR workshop at ACM Multimedia 2026 as a timely venue to advance efficiency-aware multimodal representation learning and multimedia retrieval. The workshop complements the main MM 2026 program by strengthening core multimedia themes — including multimodal learning, vision–language modeling, multimedia retrieval, recommendation, and multimodal generation — through the lens of efficiency, deployability, and cost-aware system design. The workshop has four main goals: (i) promote research on efficiency-aware multimodal learning for large-scale multimedia applications; (ii) encourage unified metrics and benchmarks that jointly evaluate effectiveness and system cost; (iii) advance deployable solutions for real-world multimedia retrieval and generation systems; and (iv) stimulate discussion on emerging omni-modal and generative paradigms under realistic computational constraints.
+The 2nd EReL@MIR workshop at ACM Multimedia 2026 is a timely venue to advance efficiency-aware multimodal representation learning and multimedia retrieval. Co-located with the main MM 2026 program, the workshop strengthens core multimedia themes — including multimodal learning, vision–language modeling, multimedia retrieval, recommendation, and multimodal generation — through the lens of efficiency, deployability, and cost-aware system design. The workshop has four main goals: (i) promote research on efficiency-aware multimodal learning for large-scale multimedia applications; (ii) encourage unified metrics and benchmarks that jointly evaluate effectiveness and system cost; (iii) advance deployable solutions for real-world multimedia retrieval and generation systems; and (iv) stimulate discussion on emerging omni-modal and generative paradigms under realistic computational constraints.
 
 Previous edition (2025) archive: [https://erel-mir.github.io/2025/](https://erel-mir.github.io/2025/)
 
-Conference homepage: [https://2026.acmmm.org/index.html](https://2026.acmmm.org/index.html)
+ACM Multimedia 2026 (host conference) website: [https://2026.acmmm.org/index.html](https://2026.acmmm.org/index.html)
 
 ## Submission
 - **OpenReview submission:** TBA
+- **Contribution Submission:** **16-July**
 - **Author Notification:** **06-August**
 - **Camera-Ready:** **20-August**
+- **Author Registration:** **20-August**
 
 ## <a name='Call for Papers' style="color: inherit; text-decoration: none;text-align: center;"> Call for Papers </a>
 We invite researchers to submit their latest work on efficient multimodal representation learning for multimodal information retrieval (MIR). Topics include, but are not limited to:
@@ -47,9 +49,7 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 
 **All accepted papers will be published as workshop proceedings in the ACM Digital Library.**
 
-Paper submission, review, and acceptance decisions must be carried out through **OpenReview** (mandatory), using a workshop venue configured under the ACM MM 2026 parent venue; organizers will receive a support document with further details.
-
-The review process will be conducted by our program committee. Selection depends on technical soundness and relevance to the workshop community. At least one author of each accepted paper must attend the workshop on-site and present their work.
+The review process will be conducted by our workshop program committee. Selection depends on technical soundness and relevance to the workshop community. At least one author of each accepted paper must attend the workshop on-site and present their work.
 
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Contribution Submission: **16-July**
@@ -57,7 +57,7 @@ The review process will be conducted by our program committee. Selection depends
 - Camera-Ready: **20-August**
 - Author Registration: **20-August**
 
-## <a name='Organizers' style="color: inherit; text-decoration: none;"> Organizers </a>
+## <a name='Organizers' style="color: inherit; text-decoration: none;"> Workshop Organizers </a>
 
 <div class="organizer-grid">
   <div class="organizer-card">
