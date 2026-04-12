@@ -26,6 +26,8 @@ Conference homepage: [https://2026.acmmm.org/index.html](https://2026.acmmm.org/
 
 ## Submission
 - **OpenReview submission:** TBA
+- **Author Notification:** **06-August**
+- **Camera-Ready:** **20-August**
 
 Workshop **submissions, peer review, and acceptance decisions** are handled **only through OpenReview** (mandatory). For accepted workshops, organizers set up an OpenReview venue under the ACM MM 2026 parent venue; a support document with guidelines will be shared with workshop organizers. The ACM MM 2026 organizers will provide workshop details to ACM for publication.
 
