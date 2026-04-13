@@ -25,7 +25,7 @@ Previous edition (2025) archive: [https://erel-mir.github.io/2025/](https://erel
 ACM Multimedia 2026 (host conference) website: [https://2026.acmmm.org/index.html](https://2026.acmmm.org/index.html)
 
 ## Submission
-- **OpenReview submission:** TBA
+- **OpenReview submission:** [https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR](https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR)
 - **Contribution Submission:** **16-July**
 - **Author Notification:** **06-August**
 - **Camera-Ready:** **20-August**
