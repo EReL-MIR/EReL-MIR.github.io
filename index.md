@@ -51,6 +51,9 @@ Submissions of papers must be at least 4 pages and at most 8 pages (including fi
 
 The review process will be conducted by our workshop program committee. Selection depends on technical soundness and relevance to the workshop community. At least one author of each accepted paper must attend the workshop on-site and present their work.
 
+## Best Paper Award
+**The committee will review the submissions and select one outstanding workshop paper to receive the Best Paper Award at the EReL@MIR Workshop.**
+
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
 - Contribution Submission: **16-July**
 - Author Notification: **06-August**
