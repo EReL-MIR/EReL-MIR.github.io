@@ -47,6 +47,8 @@ We invite researchers to submit their latest work on efficient multimodal repres
 ## Submission Guidelines
 Submissions of papers must be at least 4 pages and at most 8 pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. Submissions must be in English and in PDF format, using the ACM two-column conference format. Suitable templates are available from the [ACM Website](https://www.acm.org/publications/proceedings-template) (use the "sigconf" proceedings template for LaTeX and the Interim Template for Word).
 
+The workshop follows a double-blind review process. Submissions must be anonymized and must not include author names, affiliations, acknowledgements, or any other information that could reveal the authors' identities.
+
 **All accepted papers will be published as workshop proceedings in the ACM Digital Library.**
 
 The review process will be conducted by our workshop program committee. Selection depends on technical soundness and relevance to the workshop community. At least one author of each accepted paper must attend the workshop on-site and present their work.
