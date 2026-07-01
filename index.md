@@ -121,6 +121,17 @@ The review process will be conducted by our workshop program committee. Selectio
   </div>
 </div>
 
+## <a name='Publicity Chair' style="color: inherit; text-decoration: none;"> Publicity Chair </a>
+
+<div class="organizer-grid">
+  <div class="organizer-card">
+    <a href="https://hongleizhang.github.io/" target="_blank">
+      <img src="/img/chairs/HongleiZhang.jpg" alt="Honglei Zhang">
+      <p><b>Honglei Zhang</b><br>Beijing Jiaotong University</p>
+    </a>
+  </div>
+</div>
+
 <style>
 .organizer-grid {
   display: flex;
