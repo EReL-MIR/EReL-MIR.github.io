@@ -130,6 +130,12 @@ The review process will be conducted by our workshop program committee. Selectio
       <p><b>Honglei Zhang</b><br>Beijing Jiaotong University</p>
     </a>
   </div>
+  <div class="organizer-card">
+    <a href="https://gair-lab.github.io/members/2024kaiwen-zheng.html" target="_blank">
+      <img src="/img/chairs/kaiwen-zheng.jpg" alt="Kaiwen Zheng">
+      <p><b>Kaiwen Zheng</b><br>University of Glasgow</p>
+    </a>
+  </div>
 </div>
 
 <style>
