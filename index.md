@@ -26,7 +26,7 @@ ACM Multimedia 2026 (host conference) website: [https://2026.acmmm.org/index.htm
 
 ## Submission
 - **OpenReview submission:** [https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR](https://openreview.net/group?id=acmmm.org/ACMMM/2026/Workshop/EReL-MIR)
-- **Contribution Submission:** **16-July**
+- **Contribution Submission:** ~~16-July~~ <span style="color:red;"><b>extended to 26-July</b></span>
 - **Author Notification:** **06-August**
 - **Camera-Ready:** **20-August**
 - **Author Registration:** **20-August**
@@ -60,12 +60,6 @@ The review process will be conducted by our workshop program committee. Selectio
 <span style="color:red"><b>MM2026 Fast Track</b></span> - <b>Papers rejected and/or withdrawn from ACM Multimedia 2026 that wish to be submitted to EReL@MIR can use the same submission link. These submissions should include the review comments in an appendix. Such papers will bypass the peer-review process, with acceptance decisions made directly by the meta-reviewers.</b>
 
 In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
-
-## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-- Contribution Submission: ~~16-July~~ <span style="color:red;"><b>extended to 26-July</b></span>
-- Author Notification: **06-August**
-- Camera-Ready: **20-August**
-- Author Registration: **20-August**
 
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Workshop Organizers </a>
 
