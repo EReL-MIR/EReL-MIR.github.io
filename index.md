@@ -56,8 +56,13 @@ The review process will be conducted by our workshop program committee. Selectio
 ## Best Paper Award
 **The committee will review the submissions and select one outstanding workshop paper to receive the Best Paper Award at the EReL@MIR Workshop.**
 
+## <a name='MM2026 Fast Track' style="color: red; text-decoration: none;text-align: center;"> MM2026 Fast Track (new) </a>
+<span style="color:red"><b>MM2026 Fast Track</b></span> - <b>Papers rejected and/or withdrawn from ACM Multimedia 2026 that wish to be submitted to EReL@MIR can use the same submission link. These submissions should include the review comments in an appendix. Such papers will bypass the peer-review process, with acceptance decisions made directly by the meta-reviewers.</b>
+
+In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
+
 ## <a name='Important Dates' style="color: inherit; text-decoration: none; text-align: center;"> Important Dates </a>
-- Contribution Submission: **16-July**
+- Contribution Submission: ~~16-July~~ <span style="color:red;"><b>extended to 26-July</b></span>
 - Author Notification: **06-August**
 - Camera-Ready: **20-August**
 - Author Registration: **20-August**
