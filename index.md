@@ -67,13 +67,13 @@ In the Appendix, the authors are encouraged to include a section titled "Improve
   <div class="organizer-card">
     <a href="https://www.ceessnoek.info/" target="_blank">
       <img src="/img/speakers/cees-snoek.jpg" alt="Cees Snoek">
-      <p><b>Cees Snoek</b><br>University of Amsterdam</p>
+      <p><b>Cees Snoek</b><br>Professor<br>University of Amsterdam</p>
     </a>
   </div>
   <div class="organizer-card">
     <a href="https://mysbupt.github.io/" target="_blank">
       <img src="/img/speakers/yunshan-ma.png" alt="Yunshan Ma">
-      <p><b>Yunshan Ma</b><br>Singapore Management University</p>
+      <p><b>Yunshan Ma</b><br>Assistant Professor<br>Singapore Management University</p>
     </a>
   </div>
 </div>
