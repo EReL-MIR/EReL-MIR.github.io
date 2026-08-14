@@ -61,6 +61,23 @@ The review process will be conducted by our workshop program committee. Selectio
 
 In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
 
+## <a name='Keynote Speakers' style="color: inherit; text-decoration: none;"> Tentative Keynote Speakers </a>
+
+<div class="organizer-grid">
+  <div class="organizer-card">
+    <a href="https://www.ceessnoek.info/" target="_blank">
+      <img src="/img/speakers/cees-snoek.jpg" alt="Cees Snoek">
+      <p><b>Cees Snoek</b><br>University of Amsterdam</p>
+    </a>
+  </div>
+  <div class="organizer-card">
+    <a href="https://mysbupt.github.io/" target="_blank">
+      <img src="/img/speakers/yunshan-ma.png" alt="Yunshan Ma">
+      <p><b>Yunshan Ma</b><br>Singapore Management University</p>
+    </a>
+  </div>
+</div>
+
 ## <a name='Organizers' style="color: inherit; text-decoration: none;"> Workshop Organizers </a>
 
 <div class="organizer-grid">
