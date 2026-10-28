@@ -10,7 +10,7 @@ description: ""
     The 2<sup>nd</sup> EReL@MIR Workshop on Efficient Representation Learning for <br> Multimodal Information Retrieval
 </h1>
 
-The 2nd EReL@MIR Workshop will be co-located with **ACM Multimedia 2026** in Rio de Janeiro, Brazil (10–14 November 2026).
+The 2nd EReL@MIR Workshop will be co-located with **ACM Multimedia 2026** in Rio de Janeiro, Brazil (10–14 November 2026). On the official programme, the workshop is a half-day session on **Tuesday, 10 November 2026, 09:00–12:30 (Brasília time), in Oceania III**.
 
 Multimodal information retrieval (MIR) underpins modern multimedia services across both industry and academia — from large-scale recommendation and e-commerce search to general-purpose web and conversational search systems. The rapid progress of large pre-trained foundation models for language and vision–language learning (e.g., Qwen, LLaVA, and CLIP) has significantly reshaped how multimodal representations are learned and transferred across tasks. These advances have enabled strong performance in MIR settings such as web search, cross-modal retrieval, and multimodal recommender systems.
 
@@ -61,19 +61,34 @@ The review process will be conducted by our workshop program committee. Selectio
 
 In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
 
-## <a name='Keynote Speakers' style="color: inherit; text-decoration: none;"> Tentative Keynote Speakers </a>
+## <a name='Workshop Programme' style="color: inherit; text-decoration: none;"> Workshop Programme </a>
+
+Half-day session on the [official ACM Multimedia 2026 programme](https://2026.acmmm.org/site/programme.html).
+
+- **When:** Tuesday, 10 November 2026, 09:00–12:30 (Brasília time)
+- **Where:** Oceania III
+
+| Time | Session |
+| --- | --- |
+| 09:00–09:05 | Opening remarks |
+| 09:05–09:50 | **Keynote** — Cees Snoek (University of Amsterdam): *How Much Is Enough? Efficient Representations for Perceptual Intelligence.* |
+| 09:50–10:35 | Oral session |
+| 10:45–11:30 | **Keynote** — Yunshan Ma (Singapore Management University): *Toward Efficient Multimodal Recommendation: From Content Understanding to Personalized Generation* |
+| 11:30–12:30 | Oral session |
+
+## <a name='Keynote Speakers' style="color: inherit; text-decoration: none;"> Keynote Speakers </a>
 
 <div class="organizer-grid">
-  <div class="organizer-card">
+  <div class="organizer-card keynote-card">
     <a href="https://www.ceessnoek.info/" target="_blank">
       <img src="/img/speakers/cees-snoek.jpg" alt="Cees Snoek">
-      <p><b>Cees Snoek</b><br>Professor<br>University of Amsterdam</p>
+      <p><b>Cees Snoek</b><br>Professor<br>University of Amsterdam<br><span class="talk-title">How Much Is Enough? Efficient Representations for Perceptual Intelligence.</span><br><span class="talk-time">09:05–09:50</span></p>
     </a>
   </div>
-  <div class="organizer-card">
+  <div class="organizer-card keynote-card">
     <a href="https://mysbupt.github.io/" target="_blank">
       <img src="/img/speakers/yunshan-ma.png" alt="Yunshan Ma">
-      <p><b>Yunshan Ma</b><br>Assistant Professor<br>Singapore Management University</p>
+      <p><b>Yunshan Ma</b><br>Assistant Professor<br>Singapore Management University<br><span class="talk-title">Toward Efficient Multimodal Recommendation: From Content Understanding to Personalized Generation</span><br><span class="talk-time">10:45–11:30</span></p>
     </a>
   </div>
 </div>
@@ -187,6 +202,26 @@ In the Appendix, the authors are encouraged to include a section titled "Improve
 
 .organizer-card a:hover p {
   text-decoration: underline;
+}
+
+.keynote-card {
+  flex: 1 1 320px;
+  max-width: 420px;
+}
+
+.talk-title {
+  display: inline-block;
+  margin-top: 8px;
+  font-style: italic;
+  font-size: 0.95em;
+  line-height: 1.4;
+}
+
+.talk-time {
+  display: inline-block;
+  margin-top: 4px;
+  color: #555;
+  font-size: 0.9em;
 }
 </style>
 
