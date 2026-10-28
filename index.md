@@ -68,13 +68,36 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
 - **When:** Tuesday, 10 November 2026, 09:00–12:30 (Brasília time)
 - **Where:** Oceania III
 
-| Time | Session |
-| --- | --- |
-| 09:00–09:05 | Opening remarks |
-| 09:05–09:50 | **Keynote** — Cees Snoek (University of Amsterdam): *How Much Is Enough? Efficient Representations for Perceptual Intelligence.* |
-| 09:50–10:35 | Oral session |
-| 10:45–11:30 | **Keynote** — Yunshan Ma (Singapore Management University): *Toward Efficient Multimodal Recommendation: From Content Understanding to Personalized Generation* |
-| 11:30–12:30 | Oral session |
+<table class="programme-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00–09:05</td>
+      <td>Opening remarks</td>
+    </tr>
+    <tr>
+      <td>09:05–09:50</td>
+      <td><b>Keynote</b> — Cees Snoek (University of Amsterdam): <em>How Much Is Enough? Efficient Representations for Perceptual Intelligence.</em></td>
+    </tr>
+    <tr>
+      <td>09:50–10:35</td>
+      <td>Oral session</td>
+    </tr>
+    <tr>
+      <td>10:45–11:30</td>
+      <td><b>Keynote</b> — Yunshan Ma (Singapore Management University): <em>Toward Efficient Multimodal Recommendation: From Content Understanding to Personalized Generation</em></td>
+    </tr>
+    <tr>
+      <td>11:30–12:30</td>
+      <td>Oral session</td>
+    </tr>
+  </tbody>
+</table>
 
 ## <a name='Keynote Speakers' style="color: inherit; text-decoration: none;"> Keynote Speakers </a>
 
@@ -215,6 +238,33 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
   font-style: italic;
   font-size: 0.95em;
   line-height: 1.4;
+}
+
+.programme-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 12px 0 28px;
+}
+
+.programme-table th,
+.programme-table td {
+  padding: 12px 18px;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid #e6e6e6;
+  line-height: 1.5;
+}
+
+.programme-table th {
+  font-weight: 600;
+  border-bottom: 2px solid #ddd;
+}
+
+.programme-table th:first-child,
+.programme-table td:first-child {
+  white-space: nowrap;
+  width: 9em;
+  padding-right: 28px;
 }
 
 .talk-time {
