@@ -67,6 +67,7 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
 
 - **When:** Tuesday, 10 November 2026, 09:00–12:30 (Brasília time)
 - **Where:** Oceania III
+- **Format:** 2 keynotes and 7 oral presentations (15-minute slots).
 
 <table class="programme-table">
   <thead>
@@ -86,7 +87,19 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
     </tr>
     <tr>
       <td>09:50–10:35</td>
-      <td>Oral session</td>
+      <td><b>Oral Session 1</b></td>
+    </tr>
+    <tr>
+      <td>09:50–10:05</td>
+      <td><b>One Source, One Vote: Quotienting Multiplicity in Multimodal Retrieval</b><br><span class="paper-authors">Qiwei Yan (University of the Chinese Academy of Sciences), Zhongyan Hou (University of the Chinese Academy of Sciences)</span></td>
+    </tr>
+    <tr>
+      <td>10:05–10:20</td>
+      <td><b>DAB-RAM: Domain-Adaptive Bayesian Region Alignment for Fine-Grained Cross-Modal Retrieval</b><br><span class="paper-authors">Zhiguo Tao (University of Nottingham), He Zhihua (Yangzhou Bibang Biotechnology Co., Ltd.), Zichen Yuan (Independent Researcher), Lifan Sun (Independent Researcher), Yifei Huang (eBay Inc.)</span></td>
+    </tr>
+    <tr>
+      <td>10:20–10:35</td>
+      <td><b>Knowing When to Trust Cheap Retrieval: A Calibration and Cost-Aware Decision Layer for Open-Vocabulary Temporal Change Retrieval</b><br><span class="paper-authors">Panagiotis Giannikos (National Technical University of Athens), Paraskevi Tzouveli (National Technical University of Athens)</span></td>
     </tr>
     <tr>
       <td>10:45–11:30</td>
@@ -94,7 +107,23 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
     </tr>
     <tr>
       <td>11:30–12:30</td>
-      <td>Oral session</td>
+      <td><b>Oral Session 2</b></td>
+    </tr>
+    <tr>
+      <td>11:30–11:45</td>
+      <td><b>Adaptive Agentic Routing at Scale: Orchestrating Multi-Modal Video Search Under Strict Latency and Device Constraints</b><br><span class="paper-authors">Rahul Joshi (Amazon), Jitesh Mehta (Amazon), Adarshan Naiynar Sivashunmugam (Amazon)</span></td>
+    </tr>
+    <tr>
+      <td>11:45–12:00</td>
+      <td><b>EdgeCurator: Efficient Cross-Modal Grounding for Real-Time Language-Guided UAV Navigation</b><br><span class="paper-authors">Sitian Peng (Tongji University), Rui Wang (Tongji University)</span></td>
+    </tr>
+    <tr>
+      <td>12:00–12:15</td>
+      <td><b>Modality-Invariant Multimodal Learning to Handle Missing Modalities: A Single-Branch Approach</b><br><span class="paper-authors">Muhammad Saeed (University of Michigan-Flint), Shah Nawaz (Johannes Kepler Universität Linz), Muhammad Zaigham Zaheer (MBZUAI), Muhammad Haris Khan (MBZUAI), Karthik Nandakumar (Michigan State University), Muhammad Haroon Yousaf (University of Engineering and Technology Taxila), Hassan Sajjad (Dalhousie University), Tom De Schepper (imec), Markus Schedl (Johannes Kepler Universität Linz)</span></td>
+    </tr>
+    <tr>
+      <td>12:15–12:30</td>
+      <td><b>RobustA: Robust Anomaly Detection in Multimodal Data</b><br><span class="paper-authors">Salem AlMarri (MBZUAI), Muhammad Irzam Liaqat (Institute for Advanced Studies Lucca), Muhammad Zaigham Zaheer (MBZUAI), Shah Nawaz (Johannes Kepler Universität Linz), Karthik Nandakumar (Michigan State University), Markus Schedl (Johannes Kepler Universität Linz)</span></td>
     </tr>
   </tbody>
 </table>
@@ -230,6 +259,11 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
 .keynote-card {
   flex: 1 1 320px;
   max-width: 420px;
+}
+
+.paper-authors {
+  font-size: 0.9em;
+  color: #666;
 }
 
 .talk-title {
