@@ -61,7 +61,7 @@ The review process will be conducted by our workshop program committee. Selectio
 
 In the Appendix, the authors are encouraged to include a section titled "Improvements," where they briefly outline whether they have addressed any of the issues raised in the main review and, if so, how these revisions were implemented. Only minor revisions are expected, and it is acceptable if no revisions are made where the work is already deemed to be in good shape. Major changes are not permitted, and any attempt to modify or manipulate review comments is strictly prohibited.
 
-## <a name='Workshop Programme' style="color: inherit; text-decoration: none;"> Workshop Programme </a>
+## <a name='Schedule' style="color: inherit; text-decoration: none;"> Workshop Schedule </a>
 
 Half-day session on the [official ACM Multimedia 2026 programme](https://2026.acmmm.org/site/programme.html).
 
@@ -79,13 +79,13 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
   <tbody>
     <tr>
       <td>09:00–09:05</td>
-      <td>Opening remarks</td>
+      <td><b>Opening</b> — Opening remarks by Junchen Fu (University of Glasgow), on behalf of the workshop organizers</td>
     </tr>
     <tr>
       <td>09:05–09:50</td>
       <td><b>Keynote</b> — Cees Snoek (University of Amsterdam): <em>How Much Is Enough? Efficient Representations for Perceptual Intelligence.</em></td>
     </tr>
-    <tr>
+    <tr class="session-row">
       <td>09:50–10:35</td>
       <td><b>Oral Session 1</b></td>
     </tr>
@@ -101,11 +101,15 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
       <td>10:20–10:35</td>
       <td><b>Knowing When to Trust Cheap Retrieval: A Calibration and Cost-Aware Decision Layer for Open-Vocabulary Temporal Change Retrieval</b><br><span class="paper-authors">Panagiotis Giannikos (National Technical University of Athens), Paraskevi Tzouveli (National Technical University of Athens)</span></td>
     </tr>
+    <tr class="break-row">
+      <td>10:35–10:45</td>
+      <td>Break</td>
+    </tr>
     <tr>
       <td>10:45–11:30</td>
       <td><b>Keynote</b> — Yunshan Ma (Singapore Management University): <em>Toward Efficient Multimodal Recommendation: From Content Understanding to Personalized Generation</em></td>
     </tr>
-    <tr>
+    <tr class="session-row">
       <td>11:30–12:30</td>
       <td><b>Oral Session 2</b></td>
     </tr>
@@ -259,6 +263,15 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
 .keynote-card {
   flex: 1 1 320px;
   max-width: 420px;
+}
+
+.programme-table .session-row td {
+  background: #f0f4f8;
+}
+
+.programme-table .break-row td {
+  color: #888;
+  font-style: italic;
 }
 
 .paper-authors {
