@@ -129,6 +129,10 @@ Half-day session on the [official ACM Multimedia 2026 programme](https://2026.ac
       <td>12:15–12:30</td>
       <td><b>RobustA: Robust Anomaly Detection in Multimodal Data</b><br><span class="paper-authors">Salem AlMarri (MBZUAI), Muhammad Irzam Liaqat (Institute for Advanced Studies Lucca), Muhammad Zaigham Zaheer (MBZUAI), Shah Nawaz (Johannes Kepler Universität Linz), Karthik Nandakumar (Michigan State University), Markus Schedl (Johannes Kepler Universität Linz)</span></td>
     </tr>
+    <tr>
+      <td>12:30–12:40</td>
+      <td><b>Best Paper Award Ceremony</b></td>
+    </tr>
   </tbody>
 </table>
 
