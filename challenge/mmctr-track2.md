@@ -131,18 +131,7 @@ h1 {
 With the development of multimodal large models and the popularity of content recommendation applications, multimodal recommendation has become one of the most prominent tasks in the research community. To promote breakthroughs in this field, we organize a Multimodal Click-through Rate prediction (MM-CTR) Challenge at the WWW 2025 EReL@MIR workshop. To meet the low-latency requirements of online inference in industrial applications,  we have divided the MM-CTR Challenge into two sub-tasks: Multimodal Item Embedding and Multimodal CTR Prediction. The first task centers on developing multimodal item representation learning tailored for recommendation tasks, while the second focuses on designing CTR prediction models that effectively utilize multimodal embedding features to enhance model performance. Through in-depth exploration on these two tasks, we aim to broden the boundary of multimodal recommendation and call for solutions with practical value and insights for industrial recommender systems.
 
 ## Participating
-Please go to the challenge portal: [https://www.codabench.org/competitions/5372/](https://www.codabench.org/competitions/5372/)
-
-
-## Dataset Description
-
-We use the MicroLens-1M dataset released by Westlake University [1] for the MM-CTR Challenge. This dataset contains 1M users and 91K items,  with detailed item content features (e.g., titles, covers). This challenge will use public data for training and private data for testing, respectively.
-
-Dataset download: [https://recsys.westlake.edu.cn/MicroLens_1M_MMCTR/](https://recsys.westlake.edu.cn/MicroLens_1M_MMCTR/)
-
-<div class="image-container">
-    <img src="{{ site.baseurl }}/img/track2/microlens.png" alt="dataset">
-</div>
+[Update] The challenge portal will remain open for research purposes at: [https://www.codabench.org/competitions/5372/](https://www.codabench.org/competitions/5372/)
 
 ## Task 1: Multimodal Item Embedding
 <div class="image-container">
@@ -254,11 +243,6 @@ Participants are required to submit their source code for model reproduction and
 
 ## Open Source License Requirement
 The final winning teams must open-source their code under either the <strong>MIT License</strong> or the <strong>Apache License 2.0</strong>.
-
-
-### Reference
-
-[1] Yongxin Ni, Yu Cheng, Xiangyan Liu, Junchen Fu, Youhua Li, Xiangnan He, Yongfeng Zhang, Fajie Yuan, A Content-Driven Micro-Video Recommendation Dataset at Scale, Arxiv 2023.
 
 
 
