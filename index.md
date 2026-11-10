@@ -12,6 +12,8 @@ description: ""
 
 The 2nd EReL@MIR Workshop will be co-located with **ACM Multimedia 2026** in Rio de Janeiro, Brazil (10–14 November 2026). On the official programme, the workshop is a half-day session on **Tuesday, 10 November 2026, 09:00–12:30 (Brasília time), in Oceania III**.
 
+**Online participation:** [Join via Microsoft Teams](https://teams.microsoft.com/meet/3504535881160694?p=WUWdLwvIDxD4NjETBO)
+
 Multimodal information retrieval (MIR) underpins modern multimedia services across both industry and academia — from large-scale recommendation and e-commerce search to general-purpose web and conversational search systems. The rapid progress of large pre-trained foundation models for language and vision–language learning (e.g., Qwen, LLaVA, and CLIP) has significantly reshaped how multimodal representations are learned and transferred across tasks. These advances have enabled strong performance in MIR settings such as web search, cross-modal retrieval, and multimodal recommender systems.
 
 Despite these gains, deploying large multimodal models in real-world MIR pipelines exposes a persistent gap between effectiveness and system feasibility. Production MIR systems must satisfy strict latency and throughput targets while controlling VRAM, storage, and end-to-end serving costs, yet efficiency is still under-reported and inconsistently evaluated in much of the literature. This limits fair comparison, reproducibility, and practical adoption at scale — motivating research on efficient adaptation, fusion, compression, indexing, and scalable serving for MIR.
